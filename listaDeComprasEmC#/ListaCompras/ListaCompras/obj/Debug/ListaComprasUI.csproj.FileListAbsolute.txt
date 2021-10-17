@@ -22,3 +22,17 @@ C:\Users\Aluno\Desktop\fabioLealSchmitz\ListaCompras\ListaCompras\obj\Debug\List
 C:\Users\Aluno\Desktop\fabioLealSchmitz\ListaCompras\ListaCompras\obj\Debug\ListaComprasUI.csproj.CopyComplete
 C:\Users\Aluno\Desktop\fabioLealSchmitz\ListaCompras\ListaCompras\obj\Debug\ListaCompras.exe
 C:\Users\Aluno\Desktop\fabioLealSchmitz\ListaCompras\ListaCompras\obj\Debug\ListaCompras.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\ListaCompras\bin\Debug\ListaCompras.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\ListaCompras\bin\Debug\ListaCompras.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\ListaCompras\bin\Debug\ListaCompras.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\ListaCompras\bin\Debug\Model.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\ListaCompras\bin\Debug\Model.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\ListaCompras\obj\Debug\ListaComprasUI.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\ListaCompras\obj\Debug\ListaComprasUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\ListaCompras\obj\Debug\ListaCompras.Form1.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\ListaCompras\obj\Debug\ListaCompras.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\ListaCompras\obj\Debug\ListaComprasUI.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\ListaCompras\obj\Debug\ListaComprasUI.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\ListaCompras\obj\Debug\ListaComprasUI.csproj.CopyComplete
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\ListaCompras\obj\Debug\ListaCompras.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\ListaCompras\obj\Debug\ListaCompras.pdb

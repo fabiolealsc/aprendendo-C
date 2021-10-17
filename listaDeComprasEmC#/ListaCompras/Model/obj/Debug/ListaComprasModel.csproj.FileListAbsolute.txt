@@ -8,3 +8,8 @@ C:\Users\Aluno\Desktop\fabioLealSchmitz\ListaCompras\Model\bin\Debug\Model.pdb
 C:\Users\Aluno\Desktop\fabioLealSchmitz\ListaCompras\Model\obj\Debug\ListaComprasModel.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\Desktop\fabioLealSchmitz\ListaCompras\Model\obj\Debug\Model.dll
 C:\Users\Aluno\Desktop\fabioLealSchmitz\ListaCompras\Model\obj\Debug\Model.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\Model\bin\Debug\Model.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\Model\bin\Debug\Model.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\Model\obj\Debug\ListaComprasModel.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\Model\obj\Debug\Model.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\listaDeComprasEmC#\ListaCompras\Model\obj\Debug\Model.pdb
