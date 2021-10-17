@@ -1,0 +1,5 @@
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\Model\bin\Debug\Model.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\Model\bin\Debug\Model.pdb
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\Model\obj\Debug\Model.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\Model\obj\Debug\Model.pdb

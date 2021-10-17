@@ -1,0 +1,11 @@
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\ListaCompras\bin\Debug\ListaCompras.exe.config
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\ListaCompras\obj\Debug\ListaCompras.csprojResolveAssemblyReference.cache
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\ListaCompras\obj\Debug\ListaCompras.Form1.resources
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\ListaCompras\obj\Debug\ListaCompras.Properties.Resources.resources
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\ListaCompras\obj\Debug\ListaCompras.csproj.GenerateResource.Cache
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\ListaCompras\bin\Debug\ListaCompras.exe
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\ListaCompras\bin\Debug\ListaCompras.pdb
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\ListaCompras\bin\Debug\Model.dll
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\ListaCompras\bin\Debug\Model.pdb
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\ListaCompras\obj\Debug\ListaCompras.exe
+c:\users\f5361091\documents\visual studio 2012\Projects\ListaCompras\ListaCompras\obj\Debug\ListaCompras.pdb

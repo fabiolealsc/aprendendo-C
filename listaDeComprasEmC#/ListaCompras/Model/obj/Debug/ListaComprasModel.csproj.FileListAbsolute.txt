@@ -1,0 +1,10 @@
+C:\Users\f5361091\documents\visual studio 2012\Projects\ListaCompras\Model\obj\Debug\ListaComprasModel.csprojResolveAssemblyReference.cache
+C:\Users\f5361091\documents\visual studio 2012\Projects\ListaCompras\Model\obj\Debug\Model.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\ListaCompras\Model\obj\Debug\Model.pdb
+C:\Users\f5361091\documents\visual studio 2012\Projects\ListaCompras\Model\bin\Debug\Model.dll
+C:\Users\f5361091\documents\visual studio 2012\Projects\ListaCompras\Model\bin\Debug\Model.pdb
+C:\Users\Aluno\Desktop\fabioLealSchmitz\ListaCompras\Model\bin\Debug\Model.dll
+C:\Users\Aluno\Desktop\fabioLealSchmitz\ListaCompras\Model\bin\Debug\Model.pdb
+C:\Users\Aluno\Desktop\fabioLealSchmitz\ListaCompras\Model\obj\Debug\ListaComprasModel.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\fabioLealSchmitz\ListaCompras\Model\obj\Debug\Model.dll
+C:\Users\Aluno\Desktop\fabioLealSchmitz\ListaCompras\Model\obj\Debug\Model.pdb
