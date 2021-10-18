@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "elMoxEVcpHzkf1lzG/MYXvnYjdaIyi+wK72XPo6EABz5UYyy2iMDhPHSsOQvxwXVG8Vtz0AaRtpAI1QCsNS4yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\estudos\\fabiolealsc\\aprendendo-C\\c#\\SolucaoCapitulo01\\TrocaDeValores\\TrocaDeValores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
