@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uv7pmtNu8QuXKGgM8+/UhdSUXu5DmUkUPGWzM7aXGF2t+fw0hs7sDa/p6xZAZz1uqFe+7EIxTKIzO4IrIfifsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\estudos\\fabiolealsc\\aprendendo-C\\c#\\SolucaoCapitulo01\\RestoDaDivisao\\RestoDaDivisao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

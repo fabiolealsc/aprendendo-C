@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabio\\Documents\\estudos\\fabiolealsc\\aprendendo-C\\c#\\SolucaoCapitulo01\\TrocaDeValores\\TrocaDeValores.csproj",
-      "projectName": "TrocaDeValores",
-      "projectPath": "C:\\Users\\fabio\\Documents\\estudos\\fabiolealsc\\aprendendo-C\\c#\\SolucaoCapitulo01\\TrocaDeValores\\TrocaDeValores.csproj",
+      "projectUniqueName": "C:\\Users\\fabio\\Documents\\estudos\\fabiolealsc\\aprendendo-C\\c#\\SolucaoCapitulo01\\TrocaDeValores\\RestoDaDivisao.csproj",
+      "projectName": "RestoDaDivisao",
+      "projectPath": "C:\\Users\\fabio\\Documents\\estudos\\fabiolealsc\\aprendendo-C\\c#\\SolucaoCapitulo01\\TrocaDeValores\\RestoDaDivisao.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\fabio\\Documents\\estudos\\fabiolealsc\\aprendendo-C\\c#\\SolucaoCapitulo01\\TrocaDeValores\\obj\\",
       "projectStyle": "PackageReference",
