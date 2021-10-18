@@ -34,4 +34,42 @@ namespace estudosSENAI
             return quantidadePessoas;
         }
     }
+    public class Cliente : Pessoa
+    {
+        bool clienteEspecial;
+        public Cliente(String nome, int idade, int altura, bool sabeNadar, bool clienteEspecial)
+            : base(nome, idade, altura, sabeNadar)
+        {
+            this.clienteEspecial = clienteEspecial;
+        }
+        public bool comprar(Produto p)
+        {
+            return true;
+        }
+        public void irAoCaixa(float velocidade)
+        {
+            base.andar(velocidade);
+            this.pagar();
+        }
+        public Cliente(string Nome, string Cpf): base(Nome, Cpf)
+        {
+            this.Nome = Nome;
+            this.Cpf = Cpf;
+        }
+        public Cliente() : base("","")
+        {
+            //É criado um objeto Cliente vazio.
+        }
+        public virtual bool comprar(Produto P)
+        {
+            return true;
+        }
+    }
+    public class ClienteEspecial : Cliente
+    {
+        public override bool comprar(Produto p)
+        {
+            return true;
+        }
+    }
 }
