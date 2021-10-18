@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L82bDczMpI56+WUO7TZj3JdSSPILmFBz5muEGm31LqfgOtRf0aalzEWJww/McQGraFfD1bA5pPfixkkaMPqExw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\estudos\\fabiolealsc\\aprendendo-C\\c#\\estudosSENAI\\estudosSENAI\\estudosSENAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
