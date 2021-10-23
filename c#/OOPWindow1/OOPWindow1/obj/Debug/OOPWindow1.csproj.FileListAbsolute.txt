@@ -1,0 +1,11 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\OOPWindow1\OOPWindow1\obj\Debug\OOPWindow1.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\OOPWindow1\OOPWindow1\obj\Debug\OOPWindow1.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\OOPWindow1\OOPWindow1\obj\Debug\OOPWindow1.Form1.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\OOPWindow1\OOPWindow1\obj\Debug\OOPWindow1.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\OOPWindow1\OOPWindow1\obj\Debug\OOPWindow1.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\OOPWindow1\OOPWindow1\obj\Debug\OOPWindow1.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\OOPWindow1\OOPWindow1\bin\Debug\OOPWindow1.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\OOPWindow1\OOPWindow1\bin\Debug\OOPWindow1.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\OOPWindow1\OOPWindow1\bin\Debug\OOPWindow1.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\OOPWindow1\OOPWindow1\obj\Debug\OOPWindow1.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\OOPWindow1\OOPWindow1\obj\Debug\OOPWindow1.pdb

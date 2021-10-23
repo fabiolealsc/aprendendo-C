@@ -1,0 +1,11 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\cacaNiquel\cacaNiquel\bin\Debug\cacaNiquel.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\cacaNiquel\cacaNiquel\bin\Debug\cacaNiquel.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\cacaNiquel\cacaNiquel\bin\Debug\cacaNiquel.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\cacaNiquel\cacaNiquel\obj\Debug\cacaNiquel.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\cacaNiquel\cacaNiquel\obj\Debug\cacaNiquel.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\cacaNiquel\cacaNiquel\obj\Debug\cacaNiquel.Form1.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\cacaNiquel\cacaNiquel\obj\Debug\cacaNiquel.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\cacaNiquel\cacaNiquel\obj\Debug\cacaNiquel.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\cacaNiquel\cacaNiquel\obj\Debug\cacaNiquel.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\cacaNiquel\cacaNiquel\obj\Debug\cacaNiquel.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\cacaNiquel\cacaNiquel\obj\Debug\cacaNiquel.pdb
