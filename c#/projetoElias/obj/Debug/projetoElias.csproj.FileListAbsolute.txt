@@ -1,0 +1,11 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\obj\Debug\projetoElias.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\obj\Debug\projetoElias.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\obj\Debug\projetoElias.ItensSearch.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\obj\Debug\projetoElias.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\obj\Debug\projetoElias.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\obj\Debug\projetoElias.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\Debug\projetoElias.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\Debug\projetoElias.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\Debug\projetoElias.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\obj\Debug\projetoElias.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\obj\Debug\projetoElias.pdb
