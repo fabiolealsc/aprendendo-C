@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using projetoElias;
+
 
 namespace projetoElias
 {
@@ -22,6 +22,14 @@ namespace projetoElias
         private void btnCancelar_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void btnSalvar_Click(object sender, EventArgs e)
+        {
+            int item = int.Parse(txtItem.Text);
+            string desc = txtDescricao.Text;
+            Banco
+
         }
     }
 }
