@@ -9,3 +9,12 @@ C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\De
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\Debug\projetoElias.pdb
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\obj\Debug\projetoElias.exe
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\obj\Debug\projetoElias.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\Debug\EntityFramework.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\Debug\System.Data.SQLite.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\Debug\EntityFramework.xml
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\Debug\System.Data.SQLite.xml
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\obj\Debug\projetoElias.Form2.resources
