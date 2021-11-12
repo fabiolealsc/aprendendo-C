@@ -12,10 +12,12 @@ namespace projetoElias
 {
     public partial class ItensSearch : Form
     {
+        public static string btn;
 
         public ItensSearch()
         {
             InitializeComponent();
+
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -40,15 +42,17 @@ namespace projetoElias
 
         private void button1_Click(object sender, EventArgs e)
         {
-            dgv1.DataSource = Banco.ObterDados("mupi");
+            btn = "mupi";
+            carregaDados();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            dgv1.DataSource = Banco.ObterDados("coloman");
+            btn = "coloman";
+            carregaDados();
         }
 
-        private void dgv1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        public void dgv1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             
         }
@@ -57,6 +61,12 @@ namespace projetoElias
         {
             Form2 form = new Form2();
             form.Show();
+        }
+        public void carregaDados()
+        {
+            dgv1.DataSource = Banco.ObterDados(btn);
+            
+            
         }
     }
 }

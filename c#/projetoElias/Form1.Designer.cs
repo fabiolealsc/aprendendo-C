@@ -582,7 +582,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button button18;
-        private System.Windows.Forms.DataGridView dgv1;
+        public System.Windows.Forms.DataGridView dgv1;
         private System.Windows.Forms.BindingSource bancoBindingSource;
         private System.Windows.Forms.BindingSource bancoBindingSource1;
     }

@@ -13,13 +13,13 @@ namespace projetoElias
 {
     public partial class Form2 : Form
     {
-        
+        ItensSearch euw = new ItensSearch();
         public Form2()
         {
             InitializeComponent();
         }
 
-        private void btnCancelar_Click(object sender, EventArgs e)
+        public void btnCancelar_Click(object sender, EventArgs e)
         {
             this.Close();
         }
@@ -28,8 +28,8 @@ namespace projetoElias
         {
             int item = int.Parse(txtItem.Text);
             string desc = txtDescricao.Text;
-            Banco
-
+            Banco.cadastrar(item, desc, ItensSearch.btn);
+           
         }
     }
 }

@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SQLite;
 using System.Data;
+using System.Windows.Forms;
 
 namespace projetoElias
 {
@@ -38,5 +39,26 @@ namespace projetoElias
                 throw ex;
             }
         }
+        public static void cadastrar(int ite, String descrica, String table)
+        {
+            int it = ite;
+            string desc = descrica;
+            String tab = table;
+            
+            try
+            {
+                var cmd = ConexaoBanco().CreateCommand();
+                cmd.CommandText = "INSERT INTO "+tab+" (item, descricao, id) VALUES (@it,@desc, NULL)";
+                cmd.Parameters.AddWithValue("@it", it);
+                cmd.Parameters.AddWithValue("@desc", desc);
+                cmd.ExecuteNonQuery();
+                MessageBox.Show("Cadastrou!");
+                ConexaoBanco().Close();
+            }
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+        } 
     }
 }
