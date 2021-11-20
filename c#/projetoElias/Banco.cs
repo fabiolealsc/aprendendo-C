@@ -28,7 +28,7 @@ namespace projetoElias
                 var cban = ConexaoBanco();
                 var cmd = cban.CreateCommand();
                 
-                cmd.CommandText = "SELECT item, descricao FROM " + table;
+                cmd.CommandText = "SELECT item as 'Código do Item', descricao as 'Descrição' FROM " + table;
                 da = new SQLiteDataAdapter(cmd.CommandText, cban);
                 da.Fill(dt);
                 cban.Close();
@@ -44,21 +44,43 @@ namespace projetoElias
             int it = ite;
             string desc = descrica;
             String tab = table;
-            
+
             try
             {
                 var cmd = ConexaoBanco().CreateCommand();
-                cmd.CommandText = "INSERT INTO "+tab+" (item, descricao, id) VALUES (@it,@desc, NULL)";
+                cmd.CommandText = "INSERT INTO " + tab + " (item, descricao, id) VALUES (@it,@desc, NULL)";
                 cmd.Parameters.AddWithValue("@it", it);
                 cmd.Parameters.AddWithValue("@desc", desc);
                 cmd.ExecuteNonQuery();
                 MessageBox.Show("Cadastrou!");
                 ConexaoBanco().Close();
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 throw ex;
             }
-        } 
+        }
+        public static DataTable deletar(String btn, int codigo)
+        {
+            SQLiteDataAdapter da = null;
+            DataTable dt = new DataTable();
+            try
+            {
+                var cmd = ConexaoBanco().CreateCommand();
+                cmd.CommandText = "DELETE FROM " + btn + " WHERE item=" + codigo;
+                da = new SQLiteDataAdapter(cmd.CommandText, ConexaoBanco());
+                da.Fill(dt);
+                ConexaoBanco().Close();
+                return dt;
+
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+
+        }
+         
     }
 }

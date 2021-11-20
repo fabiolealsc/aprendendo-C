@@ -74,6 +74,7 @@
             // 
             // btnSalvar
             // 
+            this.btnSalvar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnSalvar.Location = new System.Drawing.Point(202, 56);
             this.btnSalvar.Name = "btnSalvar";
             this.btnSalvar.Size = new System.Drawing.Size(75, 23);
@@ -84,6 +85,7 @@
             // 
             // btnCancelar
             // 
+            this.btnCancelar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCancelar.Location = new System.Drawing.Point(332, 56);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(75, 23);
@@ -96,6 +98,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(660, 91);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnSalvar);
@@ -103,8 +106,9 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtDescricao);
             this.Controls.Add(this.txtItem);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Form2";
-            this.Text = "Form2";
+            this.Text = "Adicionar";
             this.ResumeLayout(false);
             this.PerformLayout();
 
