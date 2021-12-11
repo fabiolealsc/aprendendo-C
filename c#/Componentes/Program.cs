@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CFB_Cursos
+namespace Componentes
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace CFB_Cursos
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new formPrincipal());
+            Application.Run(new formComponentes());
         }
     }
 }

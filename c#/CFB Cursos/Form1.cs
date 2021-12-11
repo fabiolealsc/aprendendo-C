@@ -10,11 +10,17 @@ using System.Windows.Forms;
 
 namespace CFB_Cursos
 {
-    public partial class Form1 : Form
+    public partial class formPrincipal : Form
     {
-        public Form1()
+        public formPrincipal()
+
         {
             InitializeComponent();
+        }
+
+        private void btnTexto_Click(object sender, EventArgs e)
+        {
+            lblTexto.Text = txtTexto.Text;
         }
     }
 }

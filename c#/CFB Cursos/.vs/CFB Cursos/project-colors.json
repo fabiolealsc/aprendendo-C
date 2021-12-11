@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e491e539-83c4-45c4-ab9d-3be525e314f2": {
+      "ProjectGuid": "e491e539-83c4-45c4-ab9d-3be525e314f2",
+      "DisplayName": "CFB Cursos",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0f02c75d-702e-460c-aeb9-cc1d5616fe09": {
+      "ProjectGuid": "0f02c75d-702e-460c-aeb9-cc1d5616fe09",
+      "DisplayName": "Componentes",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

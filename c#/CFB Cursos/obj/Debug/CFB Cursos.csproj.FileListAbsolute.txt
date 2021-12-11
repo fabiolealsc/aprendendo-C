@@ -1,0 +1,11 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\CFB Cursos\bin\Debug\CFB Cursos.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\CFB Cursos\bin\Debug\CFB Cursos.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\CFB Cursos\bin\Debug\CFB Cursos.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\CFB Cursos\obj\Debug\CFB Cursos.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\CFB Cursos\obj\Debug\CFB Cursos.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\CFB Cursos\obj\Debug\CFB_Cursos.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\CFB Cursos\obj\Debug\CFB Cursos.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\CFB Cursos\obj\Debug\CFB Cursos.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\CFB Cursos\obj\Debug\CFB Cursos.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\CFB Cursos\obj\Debug\CFB Cursos.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\CFB Cursos\obj\Debug\CFB_Cursos.formPrincipal.resources
