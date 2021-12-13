@@ -46,6 +46,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="fCheckBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fCheckBox.Designer.cs">
+      <DependentUpon>fCheckBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fCheckedListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fCheckedListBox.Designer.cs">
+      <DependentUpon>fCheckedListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fFilhoCheckBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fFilhoCheckBox.Designer.cs">
+      <DependentUpon>fFilhoCheckBox.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +78,15 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fCheckBox.resx">
+      <DependentUpon>fCheckBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fCheckedListBox.resx">
+      <DependentUpon>fCheckedListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fFilhoCheckBox.resx">
+      <DependentUpon>fFilhoCheckBox.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
