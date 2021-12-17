@@ -139,6 +139,7 @@
             this.Controls.Add(this.cbxAviao);
             this.Controls.Add(this.cbxCarro);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
             this.Name = "fCheckBox";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Check Box";

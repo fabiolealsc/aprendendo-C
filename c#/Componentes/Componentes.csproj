@@ -58,17 +58,35 @@
     <Compile Include="fCheckedListBox.Designer.cs">
       <DependentUpon>fCheckedListBox.cs</DependentUpon>
     </Compile>
+    <Compile Include="fComboBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fComboBox.Designer.cs">
+      <DependentUpon>fComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fDateTimePicker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fDateTimePicker.Designer.cs">
+      <DependentUpon>fDateTimePicker.cs</DependentUpon>
+    </Compile>
     <Compile Include="fFilhoCheckBox.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="fFilhoCheckBox.Designer.cs">
       <DependentUpon>fFilhoCheckBox.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="fLinkLabel.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="fLinkLabel.Designer.cs">
+      <DependentUpon>fLinkLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMain.Designer.cs">
+      <DependentUpon>fMain.cs</DependentUpon>
     </Compile>
     <Compile Include="fVeiculos.cs">
       <SubType>Form</SubType>
@@ -84,11 +102,20 @@
     <EmbeddedResource Include="fCheckedListBox.resx">
       <DependentUpon>fCheckedListBox.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="fComboBox.resx">
+      <DependentUpon>fComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fDateTimePicker.resx">
+      <DependentUpon>fDateTimePicker.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="fFilhoCheckBox.resx">
       <DependentUpon>fFilhoCheckBox.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="fLinkLabel.resx">
+      <DependentUpon>fLinkLabel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMain.resx">
+      <DependentUpon>fMain.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fVeiculos.resx">
       <DependentUpon>fVeiculos.cs</DependentUpon>

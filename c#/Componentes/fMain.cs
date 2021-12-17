@@ -62,5 +62,23 @@ namespace Componentes
             fCheckedListBox fcheckedlistbox = new fCheckedListBox();
             fcheckedlistbox.ShowDialog();
         }
+
+        private void comboBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fComboBox fcombobox = new fComboBox();
+            fcombobox.ShowDialog();
+        }
+
+        private void dateTimePickerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fDateTimePicker fdatetimerpicker = new fDateTimePicker();
+            fdatetimerpicker.ShowDialog();
+        }
+
+        private void linkLabelToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fLinkLabel flinklabel = new fLinkLabel();
+            flinklabel.ShowDialog();
+        }
     }
 }

@@ -13,3 +13,6 @@ C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Deb
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fCheckBox.resources
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fCheckedListBox.resources
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fFilhoCheckBox.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fComboBox.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fDateTimePicker.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fLinkLabel.resources
