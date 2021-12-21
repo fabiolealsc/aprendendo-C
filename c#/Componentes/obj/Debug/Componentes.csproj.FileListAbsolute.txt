@@ -16,3 +16,5 @@ C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Deb
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fComboBox.resources
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fDateTimePicker.resources
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fLinkLabel.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fListBox.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fListView.resources

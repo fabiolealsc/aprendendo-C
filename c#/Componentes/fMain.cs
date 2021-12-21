@@ -80,5 +80,17 @@ namespace Componentes
             fLinkLabel flinklabel = new fLinkLabel();
             flinklabel.ShowDialog();
         }
+
+        private void listBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fListBox flistbox = new fListBox();
+            flistbox.ShowDialog();
+        }
+
+        private void listViewToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fListView flistview = new fListView();
+            flistview.ShowDialog();
+        }
     }
 }

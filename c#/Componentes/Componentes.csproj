@@ -82,6 +82,18 @@
     <Compile Include="fLinkLabel.Designer.cs">
       <DependentUpon>fLinkLabel.cs</DependentUpon>
     </Compile>
+    <Compile Include="fListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fListBox.Designer.cs">
+      <DependentUpon>fListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fListView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fListView.Designer.cs">
+      <DependentUpon>fListView.cs</DependentUpon>
+    </Compile>
     <Compile Include="fMain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -113,6 +125,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="fLinkLabel.resx">
       <DependentUpon>fLinkLabel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fListBox.resx">
+      <DependentUpon>fListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fListView.resx">
+      <DependentUpon>fListView.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fMain.resx">
       <DependentUpon>fMain.cs</DependentUpon>
