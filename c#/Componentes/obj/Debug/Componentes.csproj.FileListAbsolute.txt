@@ -18,3 +18,8 @@ C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Deb
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fLinkLabel.resources
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fListBox.resources
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fListView.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fMaskedTextBox.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fMonthCalendar.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fNumericUpDown.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fPictureBox.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fProgressBar.resources

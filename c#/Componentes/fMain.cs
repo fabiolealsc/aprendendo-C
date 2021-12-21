@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System; 
 using System.Windows.Forms;
 
 namespace Componentes
@@ -91,6 +84,52 @@ namespace Componentes
         {
             fListView flistview = new fListView();
             flistview.ShowDialog();
+        }
+
+        private void maskedTextBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fMaskedTextBox fmaskedbox = new fMaskedTextBox();
+            fmaskedbox.ShowDialog();
+        }
+
+        private void monthCalendarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fMonthCalendar fmonthcalendar = new fMonthCalendar();
+            fmonthcalendar.ShowDialog();
+        }
+
+        private void MenuNotificacoes_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            if(e.ClickedItem.Name.ToString() == "tsmiFechar")
+            {
+                this.Close();
+            }
+            else if (e.ClickedItem.Name.ToString() == "tsmiRestaurar")
+            {
+                this.WindowState= FormWindowState.Normal;
+            }
+            else if (e.ClickedItem.Name.ToString() == "tsmiMensagem")
+            {
+                MessageBox.Show("CFB Cursos - Cursos de c#");
+            }
+        }
+
+        private void numericUpDownToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fNumericUpDown fnud = new fNumericUpDown();
+            fnud.ShowDialog();
+        }
+
+        private void pictureBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fPictureBox fpb = new fPictureBox();
+            fpb.ShowDialog();
+        }
+
+        private void progressBarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fProgressBar fpb = new fProgressBar();
+            fpb.ShowDialog();
         }
     }
 }

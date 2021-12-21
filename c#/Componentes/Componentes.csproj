@@ -100,6 +100,36 @@
     <Compile Include="fMain.Designer.cs">
       <DependentUpon>fMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="fMaskedTextBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMaskedTextBox.Designer.cs">
+      <DependentUpon>fMaskedTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fMonthCalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fMonthCalendar.Designer.cs">
+      <DependentUpon>fMonthCalendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fNumericUpDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fNumericUpDown.Designer.cs">
+      <DependentUpon>fNumericUpDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fPictureBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPictureBox.Designer.cs">
+      <DependentUpon>fPictureBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fProgressBar.Designer.cs">
+      <DependentUpon>fProgressBar.cs</DependentUpon>
+    </Compile>
     <Compile Include="fVeiculos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -135,6 +165,21 @@
     <EmbeddedResource Include="fMain.resx">
       <DependentUpon>fMain.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="fMaskedTextBox.resx">
+      <DependentUpon>fMaskedTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fMonthCalendar.resx">
+      <DependentUpon>fMonthCalendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fNumericUpDown.resx">
+      <DependentUpon>fNumericUpDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPictureBox.resx">
+      <DependentUpon>fPictureBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fProgressBar.resx">
+      <DependentUpon>fProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="fVeiculos.resx">
       <DependentUpon>fVeiculos.cs</DependentUpon>
     </EmbeddedResource>
@@ -146,6 +191,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -159,6 +205,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rabisco.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\android-chrome-512x512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2021-11-29 at 22.08.46.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

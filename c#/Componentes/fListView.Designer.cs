@@ -83,6 +83,7 @@
             this.lvProdutos.TabIndex = 0;
             this.lvProdutos.UseCompatibleStateImageBehavior = false;
             this.lvProdutos.View = System.Windows.Forms.View.Details;
+            this.lvProdutos.SelectedIndexChanged += new System.EventHandler(this.lvProdutos_SelectedIndexChanged);
             // 
             // colId
             // 
@@ -186,6 +187,7 @@
             this.btnRemover.TabIndex = 10;
             this.btnRemover.Text = "Remover";
             this.btnRemover.UseVisualStyleBackColor = true;
+            this.btnRemover.Click += new System.EventHandler(this.btnRemover_Click);
             // 
             // btnObter
             // 
@@ -195,6 +197,7 @@
             this.btnObter.TabIndex = 11;
             this.btnObter.Text = "Obter";
             this.btnObter.UseVisualStyleBackColor = true;
+            this.btnObter.Click += new System.EventHandler(this.btnObter_Click);
             // 
             // fListView
             // 
