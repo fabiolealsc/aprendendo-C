@@ -23,3 +23,4 @@ C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Deb
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fNumericUpDown.resources
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fPictureBox.resources
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fProgressBar.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Componentes\obj\Debug\Componentes.fRadioButton.resources

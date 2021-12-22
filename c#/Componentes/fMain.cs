@@ -131,5 +131,11 @@ namespace Componentes
             fProgressBar fpb = new fProgressBar();
             fpb.ShowDialog();
         }
+
+        private void radioButtonToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            fRadioButton frb = new fRadioButton();
+            frb.ShowDialog();
+        }
     }
 }
