@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFB Cursos", "CFB Cursos.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Componentes", "..\Componentes\Componentes.csproj", "{0F02C75D-702E-460C-AEB9-CC1D5616FE09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fEditorDeTexto", "..\fEditorDeTexto\fEditorDeTexto.csproj", "{958E0724-27EC-4325-B413-CCDF4908F9FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0F02C75D-702E-460C-AEB9-CC1D5616FE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F02C75D-702E-460C-AEB9-CC1D5616FE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F02C75D-702E-460C-AEB9-CC1D5616FE09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958E0724-27EC-4325-B413-CCDF4908F9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958E0724-27EC-4325-B413-CCDF4908F9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958E0724-27EC-4325-B413-CCDF4908F9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958E0724-27EC-4325-B413-CCDF4908F9FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

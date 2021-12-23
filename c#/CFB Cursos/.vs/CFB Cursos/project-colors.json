@@ -15,7 +15,12 @@
       "ProjectGuid": "0f02c75d-702e-460c-aeb9-cc1d5616fe09",
       "DisplayName": "Componentes",
       "ColorIndex": 1
+    },
+    "958e0724-27ec-4325-b413-ccdf4908f9fb": {
+      "ProjectGuid": "958e0724-27ec-4325-b413-ccdf4908f9fb",
+      "DisplayName": "fEditorDeTexto",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
