@@ -584,16 +584,19 @@
             this.dgv1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgv1.Size = new System.Drawing.Size(708, 444);
             this.dgv1.TabIndex = 3;
+            this.dgv1.DataSourceChanged += new System.EventHandler(this.dgv1_DataSourceChanged);
             this.dgv1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv1_CellContentClick);
             this.dgv1.SelectionChanged += new System.EventHandler(this.dgv1_SelectionChanged);
             // 
             // bancoBindingSource1
             // 
             this.bancoBindingSource1.DataSource = typeof(projetoElias.Banco);
+            this.bancoBindingSource1.CurrentChanged += new System.EventHandler(this.bancoBindingSource1_CurrentChanged);
             // 
             // bancoBindingSource
             // 
             this.bancoBindingSource.DataSource = typeof(projetoElias.Banco);
+            this.bancoBindingSource.CurrentChanged += new System.EventHandler(this.bancoBindingSource_CurrentChanged);
             // 
             // ItensSearch
             // 

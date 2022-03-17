@@ -30,7 +30,7 @@ namespace projetoElias
                 
                 cmd.CommandText = "SELECT item as 'Código do Item', descricao as 'Descrição' FROM " + table;
                 da = new SQLiteDataAdapter(cmd.CommandText, cban);
-                da.Fill(dt);
+                da.Fill(dt);      
                 cban.Close();
                 return (dt);
                 
@@ -79,8 +79,8 @@ namespace projetoElias
                 throw ex;
             }
 
-
         }
+        
          
     }
 }

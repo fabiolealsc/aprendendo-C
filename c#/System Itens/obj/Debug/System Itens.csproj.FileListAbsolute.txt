@@ -1,0 +1,14 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\System Itens\bin\Debug\Database.mdf
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\System Itens\bin\Debug\Database_log.ldf
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\System Itens\bin\Debug\System Itens.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\System Itens\bin\Debug\System Itens.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\System Itens\bin\Debug\System Itens.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\System Itens\obj\Debug\System Itens.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\System Itens\obj\Debug\System Itens.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\System Itens\obj\Debug\System_Itens.Form1.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\System Itens\obj\Debug\System_Itens.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\System Itens\obj\Debug\System Itens.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\System Itens\obj\Debug\System Itens.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\System Itens\obj\Debug\System Itens.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\System Itens\obj\Debug\System Itens.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\System Itens\obj\Debug\System_Itens.EditarDataBase.resources

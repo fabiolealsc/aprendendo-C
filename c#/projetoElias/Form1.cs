@@ -154,7 +154,7 @@ namespace projetoElias
             Banco.deletar(btn, cod);
         }
 
-        private void dgv1_SelectionChanged(object sender, EventArgs e)
+        public void dgv1_SelectionChanged(object sender, EventArgs e)
         {
             DataGridView dvg = (DataGridView)sender;
             int cl = dvg.SelectedRows.Count;
@@ -163,6 +163,21 @@ namespace projetoElias
                 cod = Convert.ToInt32(dgv1.SelectedRows[0].Cells[0].Value.ToString());
             }
             
+        }
+
+        private void dgv1_DataSourceChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bancoBindingSource1_CurrentChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bancoBindingSource_CurrentChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

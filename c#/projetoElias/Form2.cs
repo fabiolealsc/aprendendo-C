@@ -13,7 +13,7 @@ namespace projetoElias
 {
     public partial class Form2 : Form
     {
-        ItensSearch euw = new ItensSearch();
+        
         public Form2()
         {
             InitializeComponent();
@@ -21,7 +21,7 @@ namespace projetoElias
 
         public void btnCancelar_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Close();
         }
 
         private void btnSalvar_Click(object sender, EventArgs e)
@@ -29,7 +29,6 @@ namespace projetoElias
             int item = int.Parse(txtItem.Text);
             string desc = txtDescricao.Text;
             Banco.cadastrar(item, desc, ItensSearch.btn);
-           
         }
     }
 }

@@ -18,3 +18,4 @@ C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\De
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\bin\Debug\System.Data.SQLite.xml
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\obj\Debug\projetoElias.Form2.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\projetoElias\obj\Debug\projetoElias.csproj.CopyComplete

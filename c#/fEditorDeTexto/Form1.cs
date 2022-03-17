@@ -113,7 +113,7 @@ namespace fEditorDeTexto
         {
             string nomeDaFonte = null;
             float tamanhoDaFonte = 0;
-            bool ital = false;
+            bool ital = true;
             ital = richTextBox1.Font.Italic;
             nomeDaFonte = richTextBox1.Font.Name;
             tamanhoDaFonte = richTextBox1.Font.Size;
