@@ -940,7 +940,6 @@ namespace System_Itens {
                                 this.columnId}, true));
                 this.columnId.AutoIncrement = true;
                 this.columnId.AutoIncrementSeed = -1;
-                this.columnId.AutoIncrementStep = -1;
                 this.columnId.AllowDBNull = false;
                 this.columnId.Unique = true;
                 this.columnItem.AllowDBNull = false;

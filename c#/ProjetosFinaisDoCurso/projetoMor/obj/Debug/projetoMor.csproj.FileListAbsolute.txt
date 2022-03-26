@@ -1,0 +1,12 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\projetoMor\bin\Debug\projetoMor.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\projetoMor\bin\Debug\projetoMor.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\projetoMor\bin\Debug\projetoMor.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\projetoMor\obj\Debug\projetoMor.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\projetoMor\obj\Debug\projetoMor.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\projetoMor\obj\Debug\projetoMor.Form1.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\projetoMor\obj\Debug\projetoMor.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\projetoMor\obj\Debug\projetoMor.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\projetoMor\obj\Debug\projetoMor.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\projetoMor\obj\Debug\projetoMor.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\projetoMor\obj\Debug\projetoMor.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\projetoMor\obj\Debug\projetoMor.AdicionarItem.resources

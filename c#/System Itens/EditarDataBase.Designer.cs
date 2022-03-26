@@ -57,10 +57,12 @@
             this.databaseDataSet = new System_Itens.DatabaseDataSet();
             this.baiasTableAdapter = new System_Itens.DatabaseDataSetTableAdapters.BaiasTableAdapter();
             this.tableAdapterManager = new System_Itens.DatabaseDataSetTableAdapters.TableAdapterManager();
-            this.dataGridViewImageColumn1 = new System.Windows.Forms.DataGridViewImageColumn();
-            this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.idDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.itemDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.descriçãoDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.imagemDataGridViewImageColumn = new System.Windows.Forms.DataGridViewImageColumn();
+            this.databaseDataSet1 = new System_Itens.DatabaseDataSet();
+            this.baiasBindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             idLabel1 = new System.Windows.Forms.Label();
             itemLabel1 = new System.Windows.Forms.Label();
             descriçãoLabel1 = new System.Windows.Forms.Label();
@@ -71,6 +73,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.baiasDataGridView)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.baiasBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.databaseDataSet)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.databaseDataSet1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.baiasBindingSource1)).BeginInit();
             this.SuspendLayout();
             // 
             // idLabel1
@@ -191,7 +195,6 @@
             // 
             this.bindingNavigatorPositionItem.AccessibleName = "Position";
             this.bindingNavigatorPositionItem.AutoSize = false;
-            this.bindingNavigatorPositionItem.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.bindingNavigatorPositionItem.Name = "bindingNavigatorPositionItem";
             this.bindingNavigatorPositionItem.Size = new System.Drawing.Size(50, 23);
             this.bindingNavigatorPositionItem.Text = "0";
@@ -232,7 +235,7 @@
             this.baiasBindingNavigatorSaveItem.Name = "baiasBindingNavigatorSaveItem";
             this.baiasBindingNavigatorSaveItem.Size = new System.Drawing.Size(23, 22);
             this.baiasBindingNavigatorSaveItem.Text = "Save Data";
-            this.baiasBindingNavigatorSaveItem.Click += new System.EventHandler(this.baiasBindingNavigatorSaveItem_Click_1);
+            this.baiasBindingNavigatorSaveItem.Click += new System.EventHandler(this.baiasBindingNavigatorSaveItem_Click);
             // 
             // idTextBox1
             // 
@@ -273,11 +276,11 @@
             this.baiasDataGridView.AutoGenerateColumns = false;
             this.baiasDataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.baiasDataGridView.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.dataGridViewTextBoxColumn1,
-            this.dataGridViewTextBoxColumn2,
-            this.dataGridViewTextBoxColumn3,
-            this.dataGridViewImageColumn1});
-            this.baiasDataGridView.DataSource = this.baiasBindingSource;
+            this.idDataGridViewTextBoxColumn,
+            this.itemDataGridViewTextBoxColumn,
+            this.descriçãoDataGridViewTextBoxColumn,
+            this.imagemDataGridViewImageColumn});
+            this.baiasDataGridView.DataSource = this.baiasBindingSource1;
             this.baiasDataGridView.Location = new System.Drawing.Point(249, 141);
             this.baiasDataGridView.Name = "baiasDataGridView";
             this.baiasDataGridView.Size = new System.Drawing.Size(502, 250);
@@ -297,6 +300,7 @@
             // 
             this.baiasBindingSource.DataMember = "Baias";
             this.baiasBindingSource.DataSource = this.databaseDataSet;
+            this.baiasBindingSource.CurrentChanged += new System.EventHandler(this.baiasBindingSource_CurrentChanged);
             // 
             // databaseDataSet
             // 
@@ -327,29 +331,39 @@
             this.tableAdapterManager.TrasloTableAdapter = null;
             this.tableAdapterManager.UpdateOrder = System_Itens.DatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption.InsertUpdateDelete;
             // 
-            // dataGridViewImageColumn1
+            // idDataGridViewTextBoxColumn
             // 
-            this.dataGridViewImageColumn1.DataPropertyName = "Imagem";
-            this.dataGridViewImageColumn1.HeaderText = "Imagem";
-            this.dataGridViewImageColumn1.Name = "dataGridViewImageColumn1";
+            this.idDataGridViewTextBoxColumn.DataPropertyName = "Id";
+            this.idDataGridViewTextBoxColumn.HeaderText = "Id";
+            this.idDataGridViewTextBoxColumn.Name = "idDataGridViewTextBoxColumn";
             // 
-            // dataGridViewTextBoxColumn3
+            // itemDataGridViewTextBoxColumn
             // 
-            this.dataGridViewTextBoxColumn3.DataPropertyName = "Descrição";
-            this.dataGridViewTextBoxColumn3.HeaderText = "Descrição";
-            this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
+            this.itemDataGridViewTextBoxColumn.DataPropertyName = "Item";
+            this.itemDataGridViewTextBoxColumn.HeaderText = "Item";
+            this.itemDataGridViewTextBoxColumn.Name = "itemDataGridViewTextBoxColumn";
             // 
-            // dataGridViewTextBoxColumn2
+            // descriçãoDataGridViewTextBoxColumn
             // 
-            this.dataGridViewTextBoxColumn2.DataPropertyName = "Item";
-            this.dataGridViewTextBoxColumn2.HeaderText = "Item";
-            this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
+            this.descriçãoDataGridViewTextBoxColumn.DataPropertyName = "Descrição";
+            this.descriçãoDataGridViewTextBoxColumn.HeaderText = "Descrição";
+            this.descriçãoDataGridViewTextBoxColumn.Name = "descriçãoDataGridViewTextBoxColumn";
             // 
-            // dataGridViewTextBoxColumn1
+            // imagemDataGridViewImageColumn
             // 
-            this.dataGridViewTextBoxColumn1.DataPropertyName = "Id";
-            this.dataGridViewTextBoxColumn1.HeaderText = "Id";
-            this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
+            this.imagemDataGridViewImageColumn.DataPropertyName = "Imagem";
+            this.imagemDataGridViewImageColumn.HeaderText = "Imagem";
+            this.imagemDataGridViewImageColumn.Name = "imagemDataGridViewImageColumn";
+            // 
+            // databaseDataSet1
+            // 
+            this.databaseDataSet1.DataSetName = "DatabaseDataSet";
+            this.databaseDataSet1.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // baiasBindingSource1
+            // 
+            this.baiasBindingSource1.DataMember = "Baias";
+            this.baiasBindingSource1.DataSource = this.databaseDataSet1;
             // 
             // EditarDataBase
             // 
@@ -377,6 +391,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.baiasDataGridView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.baiasBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.databaseDataSet)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.databaseDataSet1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.baiasBindingSource1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -407,9 +423,11 @@
         private System.Windows.Forms.PictureBox imagemPictureBox;
         private System.Windows.Forms.DataGridView baiasDataGridView;
         private System.Windows.Forms.Button btnCarregarImagem;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
-        private System.Windows.Forms.DataGridViewImageColumn dataGridViewImageColumn1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn idDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn itemDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewTextBoxColumn descriçãoDataGridViewTextBoxColumn;
+        private System.Windows.Forms.DataGridViewImageColumn imagemDataGridViewImageColumn;
+        private DatabaseDataSet databaseDataSet1;
+        private System.Windows.Forms.BindingSource baiasBindingSource1;
     }
 }

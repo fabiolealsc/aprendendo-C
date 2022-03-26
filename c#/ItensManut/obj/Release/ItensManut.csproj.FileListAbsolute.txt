@@ -1,0 +1,15 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ItensManut\bin\Release\ItensManut.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ItensManut\bin\Release\ItensManut.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ItensManut\bin\Release\ItensManut.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ItensManut\bin\Release\pt-BR\ItensManut.resources.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ItensManut\obj\Release\ItensManut.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ItensManut\obj\Release\ItensManut.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ItensManut\obj\Release\ItensManut.FormPrincipal.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ItensManut\obj\Release\ItensManut.FormAdicionarItem.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ItensManut\obj\Release\ItensManut.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ItensManut\obj\Release\ItensManut.FormPrincipal.pt-BR.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ItensManut\obj\Release\ItensManut.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ItensManut\obj\Release\ItensManut.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ItensManut\obj\Release\pt-BR\ItensManut.resources.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ItensManut\obj\Release\ItensManut.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ItensManut\obj\Release\ItensManut.pdb

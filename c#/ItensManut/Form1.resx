@@ -1,0 +1,1254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tableLayoutPanel1.ColumnCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="pictureBox1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pictureBox1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 100</value>
+  </data>
+  <data name="pictureBox1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel2.ColumnCount" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="button16.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="button16.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="button16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 322</value>
+  </data>
+  <data name="button16.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="button16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 28</value>
+  </data>
+  <data name="button16.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="button16.Text" xml:space="preserve">
+    <value>Projepack</value>
+  </data>
+  <data name="&gt;&gt;button16.Name" xml:space="preserve">
+    <value>button16</value>
+  </data>
+  <data name="&gt;&gt;button16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button16.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;button16.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnTraslo.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="btnTraslo.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btnTraslo.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnTraslo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 299</value>
+  </data>
+  <data name="btnTraslo.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btnTraslo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 23</value>
+  </data>
+  <data name="btnTraslo.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="btnTraslo.Text" xml:space="preserve">
+    <value>Traslo</value>
+  </data>
+  <data name="&gt;&gt;btnTraslo.Name" xml:space="preserve">
+    <value>btnTraslo</value>
+  </data>
+  <data name="&gt;&gt;btnTraslo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnTraslo.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;btnTraslo.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnTesouraEletrica.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btnTesouraEletrica.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnTesouraEletrica.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 276</value>
+  </data>
+  <data name="btnTesouraEletrica.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btnTesouraEletrica.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 23</value>
+  </data>
+  <data name="btnTesouraEletrica.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="btnTesouraEletrica.Text" xml:space="preserve">
+    <value>Tesoura Eletrica</value>
+  </data>
+  <data name="&gt;&gt;btnTesouraEletrica.Name" xml:space="preserve">
+    <value>btnTesouraEletrica</value>
+  </data>
+  <data name="&gt;&gt;btnTesouraEletrica.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnTesouraEletrica.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;btnTesouraEletrica.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnSoldaPVC.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btnSoldaPVC.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnSoldaPVC.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 253</value>
+  </data>
+  <data name="btnSoldaPVC.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btnSoldaPVC.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 23</value>
+  </data>
+  <data name="btnSoldaPVC.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="btnSoldaPVC.Text" xml:space="preserve">
+    <value>Solda PVC</value>
+  </data>
+  <data name="&gt;&gt;btnSoldaPVC.Name" xml:space="preserve">
+    <value>btnSoldaPVC</value>
+  </data>
+  <data name="&gt;&gt;btnSoldaPVC.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSoldaPVC.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;btnSoldaPVC.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnSlss.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btnSlss.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnSlss.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 230</value>
+  </data>
+  <data name="btnSlss.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btnSlss.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 23</value>
+  </data>
+  <data name="btnSlss.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="btnSlss.Text" xml:space="preserve">
+    <value>Sls's</value>
+  </data>
+  <data name="&gt;&gt;btnSlss.Name" xml:space="preserve">
+    <value>btnSlss</value>
+  </data>
+  <data name="&gt;&gt;btnSlss.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSlss.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;btnSlss.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnBaias.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btnBaias.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="btnBaias.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btnBaias.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 23</value>
+  </data>
+  <data name="btnBaias.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btnBaias.Text" xml:space="preserve">
+    <value>Baias</value>
+  </data>
+  <data name="&gt;&gt;btnBaias.Name" xml:space="preserve">
+    <value>btnBaias</value>
+  </data>
+  <data name="&gt;&gt;btnBaias.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnBaias.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;btnBaias.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnCarroRapido.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btnCarroRapido.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 23</value>
+  </data>
+  <data name="btnCarroRapido.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btnCarroRapido.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 23</value>
+  </data>
+  <data name="btnCarroRapido.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnCarroRapido.Text" xml:space="preserve">
+    <value>Carro Rápido</value>
+  </data>
+  <data name="&gt;&gt;btnCarroRapido.Name" xml:space="preserve">
+    <value>btnCarroRapido</value>
+  </data>
+  <data name="&gt;&gt;btnCarroRapido.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnCarroRapido.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;btnCarroRapido.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnColoman.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btnColoman.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 46</value>
+  </data>
+  <data name="btnColoman.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btnColoman.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 23</value>
+  </data>
+  <data name="btnColoman.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btnColoman.Text" xml:space="preserve">
+    <value>Coloman</value>
+  </data>
+  <data name="&gt;&gt;btnColoman.Name" xml:space="preserve">
+    <value>btnColoman</value>
+  </data>
+  <data name="&gt;&gt;btnColoman.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnColoman.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;btnColoman.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="btnCorteDeFitas.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btnCorteDeFitas.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 69</value>
+  </data>
+  <data name="btnCorteDeFitas.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btnCorteDeFitas.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 23</value>
+  </data>
+  <data name="btnCorteDeFitas.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnCorteDeFitas.Text" xml:space="preserve">
+    <value>Corte de Fitas</value>
+  </data>
+  <data name="&gt;&gt;btnCorteDeFitas.Name" xml:space="preserve">
+    <value>btnCorteDeFitas</value>
+  </data>
+  <data name="&gt;&gt;btnCorteDeFitas.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnCorteDeFitas.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;btnCorteDeFitas.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="btnDocas.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btnDocas.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 92</value>
+  </data>
+  <data name="btnDocas.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btnDocas.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 23</value>
+  </data>
+  <data name="btnDocas.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="btnDocas.Text" xml:space="preserve">
+    <value>Docas</value>
+  </data>
+  <data name="&gt;&gt;btnDocas.Name" xml:space="preserve">
+    <value>btnDocas</value>
+  </data>
+  <data name="&gt;&gt;btnDocas.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDocas.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;btnDocas.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="btnEntradaDePallets.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btnEntradaDePallets.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 115</value>
+  </data>
+  <data name="btnEntradaDePallets.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btnEntradaDePallets.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 23</value>
+  </data>
+  <data name="btnEntradaDePallets.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btnEntradaDePallets.Text" xml:space="preserve">
+    <value>Entrada de Pallets</value>
+  </data>
+  <data name="&gt;&gt;btnEntradaDePallets.Name" xml:space="preserve">
+    <value>btnEntradaDePallets</value>
+  </data>
+  <data name="&gt;&gt;btnEntradaDePallets.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnEntradaDePallets.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;btnEntradaDePallets.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="btnGeral.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btnGeral.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 138</value>
+  </data>
+  <data name="btnGeral.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btnGeral.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 23</value>
+  </data>
+  <data name="btnGeral.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btnGeral.Text" xml:space="preserve">
+    <value>Geral</value>
+  </data>
+  <data name="&gt;&gt;btnGeral.Name" xml:space="preserve">
+    <value>btnGeral</value>
+  </data>
+  <data name="&gt;&gt;btnGeral.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnGeral.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;btnGeral.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="btnMezanino.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btnMezanino.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 161</value>
+  </data>
+  <data name="btnMezanino.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btnMezanino.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 23</value>
+  </data>
+  <data name="btnMezanino.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="btnMezanino.Text" xml:space="preserve">
+    <value>Mezanino</value>
+  </data>
+  <data name="&gt;&gt;btnMezanino.Name" xml:space="preserve">
+    <value>btnMezanino</value>
+  </data>
+  <data name="&gt;&gt;btnMezanino.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnMezanino.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;btnMezanino.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="btnMupi.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btnMupi.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 184</value>
+  </data>
+  <data name="btnMupi.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btnMupi.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 23</value>
+  </data>
+  <data name="btnMupi.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="btnMupi.Text" xml:space="preserve">
+    <value>Mupi</value>
+  </data>
+  <data name="&gt;&gt;btnMupi.Name" xml:space="preserve">
+    <value>btnMupi</value>
+  </data>
+  <data name="&gt;&gt;btnMupi.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnMupi.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;btnMupi.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="btnSannet.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="btnSannet.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 207</value>
+  </data>
+  <data name="btnSannet.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="btnSannet.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 23</value>
+  </data>
+  <data name="btnSannet.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="btnSannet.Text" xml:space="preserve">
+    <value>Sannet</value>
+  </data>
+  <data name="&gt;&gt;btnSannet.Name" xml:space="preserve">
+    <value>btnSannet</value>
+  </data>
+  <data name="&gt;&gt;btnSannet.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSannet.Parent" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;btnSannet.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="tableLayoutPanel2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="tableLayoutPanel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 100</value>
+  </data>
+  <data name="tableLayoutPanel2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="tableLayoutPanel2.RowCount" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="tableLayoutPanel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 350</value>
+  </data>
+  <data name="tableLayoutPanel2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.Name" xml:space="preserve">
+    <value>tableLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tableLayoutPanel2.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="button16" Row="14" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnTraslo" Row="13" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnTesouraEletrica" Row="12" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnSoldaPVC" Row="11" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnSlss" Row="10" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnBaias" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnCarroRapido" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnColoman" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnCorteDeFitas" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnDocas" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnEntradaDePallets" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnGeral" Row="6" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnMezanino" Row="7" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnMupi" Row="8" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="btnSannet" Row="9" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,100" /&gt;&lt;Rows Styles="Percent,6.666667,Percent,6.666667,Percent,6.666667,Percent,6.666667,Percent,6.666667,Percent,6.666667,Percent,6.666667,Percent,6.666667,Percent,6.666667,Percent,6.666667,Percent,6.666667,Percent,6.666667,Percent,6.666667,Percent,6.666667,Percent,6.666667" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="tableLayoutPanel3.ColumnCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="dgvMain.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="dgvMain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="dgvMain.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="dgvMain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>644, 350</value>
+  </data>
+  <data name="dgvMain.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;dgvMain.Name" xml:space="preserve">
+    <value>dgvMain</value>
+  </data>
+  <data name="&gt;&gt;dgvMain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvMain.Parent" xml:space="preserve">
+    <value>tableLayoutPanel3</value>
+  </data>
+  <data name="&gt;&gt;dgvMain.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="pbItem.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="pbItem.Location" type="System.Drawing.Point, System.Drawing">
+    <value>644, 0</value>
+  </data>
+  <data name="pbItem.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="pbItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>300, 350</value>
+  </data>
+  <data name="pbItem.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pbItem.Name" xml:space="preserve">
+    <value>pbItem</value>
+  </data>
+  <data name="&gt;&gt;pbItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pbItem.Parent" xml:space="preserve">
+    <value>tableLayoutPanel3</value>
+  </data>
+  <data name="&gt;&gt;pbItem.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tableLayoutPanel3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="tableLayoutPanel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>200, 100</value>
+  </data>
+  <data name="tableLayoutPanel3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="tableLayoutPanel3.RowCount" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tableLayoutPanel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>776, 350</value>
+  </data>
+  <data name="tableLayoutPanel3.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel3.Name" xml:space="preserve">
+    <value>tableLayoutPanel3</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel3.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tableLayoutPanel3.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="dgvMain" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="pbItem" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="AutoSize,0,Absolute,300" /&gt;&lt;Rows Styles="Percent,100" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="tableLayoutPanel4.ColumnCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="txbPesquisar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="txbPesquisar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>431, 20</value>
+  </data>
+  <data name="txbPesquisar.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txbPesquisar.Name" xml:space="preserve">
+    <value>txbPesquisar</value>
+  </data>
+  <data name="&gt;&gt;txbPesquisar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txbPesquisar.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;txbPesquisar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnPesquisar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>440, 3</value>
+  </data>
+  <data name="btnPesquisar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>133, 23</value>
+  </data>
+  <data name="btnPesquisar.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnPesquisar.Text" xml:space="preserve">
+    <value>Pesquisar</value>
+  </data>
+  <data name="&gt;&gt;btnPesquisar.Name" xml:space="preserve">
+    <value>btnPesquisar</value>
+  </data>
+  <data name="&gt;&gt;btnPesquisar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnPesquisar.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;btnPesquisar.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="flowLayoutPanel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="flowLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 50</value>
+  </data>
+  <data name="flowLayoutPanel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>594, 41</value>
+  </data>
+  <data name="flowLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;flowLayoutPanel1.Name" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;flowLayoutPanel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;flowLayoutPanel1.Parent" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
+  </data>
+  <data name="&gt;&gt;flowLayoutPanel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel4.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="tableLayoutPanel4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 3</value>
+  </data>
+  <data name="tableLayoutPanel4.RowCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="tableLayoutPanel4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>770, 94</value>
+  </data>
+  <data name="tableLayoutPanel4.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel4.Name" xml:space="preserve">
+    <value>tableLayoutPanel4</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel4.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tableLayoutPanel4.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="flowLayoutPanel1" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Absolute,600,AutoSize,0" /&gt;&lt;Rows Styles="Percent,50,Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="tableLayoutPanel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="tableLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 24</value>
+  </data>
+  <data name="tableLayoutPanel1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="tableLayoutPanel1.RowCount" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="tableLayoutPanel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>976, 426</value>
+  </data>
+  <data name="tableLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Name" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel1.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="pictureBox1" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel2" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel3" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel4" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Absolute,200,AutoSize,0" /&gt;&lt;Rows Styles="Absolute,100,AutoSize,0,Absolute,20,Absolute,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>382, 17</value>
+  </metadata>
+  <data name="adicionarItemTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="adicionarItemTSMI.Text" xml:space="preserve">
+    <value>Adicionar Item</value>
+  </data>
+  <data name="editarItemTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="editarItemTSMI.Text" xml:space="preserve">
+    <value>Editar Item</value>
+  </data>
+  <data name="deletarItemTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="deletarItemTSMI.Text" xml:space="preserve">
+    <value>Deletar Item</value>
+  </data>
+  <data name="sairTSMI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="sairTSMI.Text" xml:space="preserve">
+    <value>Sair</value>
+  </data>
+  <data name="configuraçõesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 20</value>
+  </data>
+  <data name="configuraçõesToolStripMenuItem.Text" xml:space="preserve">
+    <value>Configurações</value>
+  </data>
+  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>976, 24</value>
+  </data>
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="menuStrip1.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>976, 450</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAMAEBAAAAEAIABoBAAANgAAACAgAAABACAAKBEAAJ4EAAAwMAAAAQAgAGgmAADGFQAAKAAAABAA
+        AAAgAAAAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AIcAAAB3AAAAdwAAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAB0AAAAUAAA
+        ABAAAABqAAAAAAAAAAAAAABqAAAAEQAAAFAAAAB0AAAADAAAAAAAAAAAAAAAAAAAAAwAAACNAAAAEAAA
+        AEcAAACBAAAATwAAABkAAAAAAAAAIAAAAIEAAABHAAAAEAAAAIwAAAAMAAAAAAAAAAAAAAB0AAAAEAAA
+        AAAAAAAAAAAAAQAAAG4AAADAAAAAdwAAAEUAAAABAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAAAAAAAUAAA
+        AEcAAAAAAAAAFQAAAIwAAABKAAAAlgAAAGQAAAA7AAAAiwAAABUAAAAAAAAARwAAAFAAAAAAAAAAAAAA
+        ABEAAACBAAAAAQAAAIwAAAAIAAAAAAAAAHkAAABrAAAAJQAAAAgAAACLAAAAAQAAAIEAAAARAAAAAAAA
+        AIcAAABpAAAAIAAAAEQAAABLAAAAIAAAACAAAACEAAAAAgAAADcAAAADAAAAOwAAAEUAAAAgAAAAaQAA
+        AIcAAAB3AAAAAAAAAAAAAAB3AAAAUQAAAJQAAABWAAAARgAAAAAAAAAfAAAAcAAAAAIAAAB2AAAAAAAA
+        AAAAAAB3AAAAdwAAAAAAAAAAAAAAdwAAAAIAAACBAAAAEAAAAAkAAABxAAAAcgAAALkAAAAtAAAAdgAA
+        AAAAAAAAAAAAdwAAAIcAAABqAAAAGgAAAEUAAAA6AAAADgAAAIMAAAAEAAAAeQAAAAUAAAAFAAAAPAAA
+        AEUAAAAaAAAAagAAAIcAAAAAAAAAFQAAAHkAAAABAAAAXgAAAAAAAAA9AAAAVQAAAHkAAAAAAAAACAAA
+        AIsAAAABAAAAeAAAABUAAAAAAAAAAAAAAFAAAABHAAAAAAAAAAAAAAB9AAAAOwAAAHgAAACVAAAAOgAA
+        AIsAAAAVAAAAAAAAAEYAAABQAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAAAAAAAAQAAAEQAAAB5AAAA0QAA
+        AFkAAAABAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAAAAAAADAAAAIwAAAAQAAAARgAAAGsAAAAPAAAAAAAA
+        ACgAAAAsAAAAagAAAEYAAAAQAAAAjAAAAAwAAAAAAAAAAAAAAAAAAAAMAAAAdAAAAFAAAAAiAAAAagAA
+        AAAAAAAAAAAAagAAACIAAABQAAAAdAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AIcAAAB3AAAAdwAAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAAAACAAAABAAAAAAQAgAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAC8AAADNAAAA7wAAAO8AAADvAAAA7wAAAM0AAAAvAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAABAAAA2gAAAEgAAAAAAAAAAAAAAAAAAAAAAAAASAAAANoAAAACAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAEAAAAJwAAAAoAAAAAAAAAAAAAABoAAADWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1gAA
+        ABsAAAAAAAAAAAAAAAoAAAAnAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAMQAAAN0AAADKAAAA5QAAAFMAAAAAAAAAKAAAANIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        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
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAQAAANoAAABIAAAAAAAAAAAAAAAAAAAAAAAAAEgAAADaAAAAAgAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAALwAAAM0AAADvAAAA7wAAAO8AAADvAAAAzQAAAC8AAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAAAADAA
+        AABgAAAAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAABSAAAAyAAA
+        APcAAAD5AAAA+QAAAPkAAAD5AAAA9wAAAMgAAABSAAAABwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AF4AAADhAAAApgAAAHMAAABvAAAAbwAAAG8AAABvAAAAcwAAAKUAAADhAAAAXgAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAABAAAAOIAAACaAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAACaAAAA4gAA
+        AAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAADgAA
+        AAYAAAAAAAAAAAAAAAAAAAAAAAAAKAAAAPIAAABaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAABZAAAA8gAAACkAAAAAAAAAAAAAAAAAAAAAAAAABgAAAA4AAAAIAAAAAQAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAA
+        AFEAAACUAAAAqAAAAIwAAAA8AAAABAAAAAAAAAAAAAAAMAAAAPAAAABSAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAABSAAAA7wAAADEAAAAAAAAAAAAAAAQAAAA8AAAAiwAAAKgAAACUAAAAUgAA
+        AAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAADAAAAgAAAAOwAAADQAAAApAAAAN4AAADhAAAARwAAAAAAAAABAAAATgAAAPAAAABSAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABSAAAA7wAAAE8AAAABAAAAAAAAAEcAAADhAAAA3gAA
+        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
+        AAAAAAABAAAATAAAAPYAAAB2AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAgAAAHoAAADoAAAANQAAAAAAAAAAAAAAAAAAAMoAAACQAAAABgAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAABvAAAA+QAAAPkAAABvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAYAAACQAAAAygAAAAAAAAAAAAAAAAAAAIsAAADfAAAAMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABUAAAC4AAAAzAAAABAAAAAAAAAAAAAAAMoAAACQAAAABgAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABvAAAA+QAAAPkAAABvAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAIAAACDAAAA4QAAAAAAAAAAAAAAAAAAABkAAAC9AAAAvwAAABIAAAAAAAAAAAAA
+        AAAAAAAAAAAAFAAAAGIAAABkAAAAZAAAAGQAAABkAAAAZAAAAGUAAACiAAAA+QAAAJMAAAAIAAAAAAAA
+        AOEAAACDAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABvAAAA+QAAAPcAAABzAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABrAAAA9QAAABMAAAAAAAAAAAAAAAEAAABJAAAA6gAA
+        AJQAAAACAAAAAAAAAAAAAAAAAAAATAAAAPUAAAD2AAAA9gAAAPYAAAD2AAAA9gAAAPYAAAD4AAAA/gAA
+        ANkAAAAbAAAAEwAAAPUAAABqAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzAAAA9gAA
+        AMgAAACmAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAA6wAAAFgAAAAAAAAAAAAA
+        AAAAAAABAAAAhwAAAOwAAABTAAAAAgAAAAAAAAAAAAAAJQAAAPQAAABqAAAAEQAAABEAAAARAAAAEQAA
+        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
+        AHwAAADRAAAA6gAAAPUAAADhAAAA6AAAAPoAAADjAAAA+gAAAO8AAADRAAAAfQAAAA4AAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKQAAACoAAAADgAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAgAAACUAAAA0AAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAATAAAAQwAAAGoAAACCAAAAjwAAAKYAAAD5AAAA/wAAAIMAAAAUAAAAAQAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAANAAAACUAAAACAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAABRAAAA7AAAAJYAAAAIAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABQAAABcAAACxAAAA/wAA
+        AIkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAlQAA
+        AOwAAABSAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAfwAAAO4AAACHAAAADAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAABIAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAA+AAAA4wAAALsAAAAAAAAAAAAAAAAAAAABAAAAEgAAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAwAAACGAAAA7gAAAIAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAA
+        AHUAAADhAAAAhwAAAAgAAAAAAAAAAAAAAAAAAAAgAAAAoQAAALMAAABgAAAAFwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAACAAAAXgAAAGgAAAAAAAAAAAAAABYAAABfAAAAsgAAAKIAAAAhAAAAAAAA
+        AAAAAAAAAAAACAAAAIYAAADhAAAAdQAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAgAAAB1AAAA7gAAAJYAAAAKAAAAAAAAABQAAACsAAAA8AAAAL4AAADxAAAA2QAA
+        AIgAAAAWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAMAAAAWAAAAhgAAANgAAADxAAAAvgAA
+        APAAAACtAAAAFAAAAAAAAAAKAAAAlgAAAO4AAAB1AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAfwAAAOwAAADQAAAApQAAAN4AAADhAAAARwAA
+        AAQAAABDAAAAuAAAAO8AAABSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABRAAAA7wAA
+        ALkAAABDAAAABAAAAEYAAADhAAAA3gAAAKUAAADQAAAA7AAAAIAAAAADAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAFEAAACUAAAAqAAA
+        AIwAAAA8AAAABAAAAAAAAAAAAAAAMAAAAPAAAABSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAABSAAAA7wAAADEAAAAAAAAAAAAAAAQAAAA7AAAAiwAAAKgAAACUAAAAUgAAAAIAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAEAAAAIAAAADgAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAKAAAAPIAAABaAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAABZAAAA8gAAACkAAAAAAAAAAAAAAAAAAAAAAAAABgAAAA4AAAAIAAAAAQAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAOIAAACaAAAAEQAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAACaAAAA4gAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AF4AAADhAAAApgAAAHMAAABvAAAAbwAAAG8AAABvAAAAcwAAAKUAAADhAAAAXgAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAcAAABSAAAAyAAAAPcAAAD5AAAA+QAAAPkAAAD5AAAA9wAAAMgAAABTAAAABwAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Itens Manut</value>
+  </data>
+  <data name="&gt;&gt;configuraçõesToolStripMenuItem.Name" xml:space="preserve">
+    <value>configuraçõesToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;configuraçõesToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;adicionarItemTSMI.Name" xml:space="preserve">
+    <value>adicionarItemTSMI</value>
+  </data>
+  <data name="&gt;&gt;adicionarItemTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;editarItemTSMI.Name" xml:space="preserve">
+    <value>editarItemTSMI</value>
+  </data>
+  <data name="&gt;&gt;editarItemTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;deletarItemTSMI.Name" xml:space="preserve">
+    <value>deletarItemTSMI</value>
+  </data>
+  <data name="&gt;&gt;deletarItemTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;sairTSMI.Name" xml:space="preserve">
+    <value>sairTSMI</value>
+  </data>
+  <data name="&gt;&gt;sairTSMI.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FormPrincipal</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

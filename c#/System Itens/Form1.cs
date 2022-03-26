@@ -28,7 +28,7 @@ namespace System_Itens
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
+            this.baiasTableAdapter.Fill(this.databaseDataSet.Baias);
         }
 
         private void databaseDataSetBindingSource_CurrentChanged(object sender, EventArgs e)

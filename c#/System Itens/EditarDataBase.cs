@@ -22,22 +22,16 @@ namespace System_Itens
         private void baiasBindingNavigatorSaveItem_Click(object sender, EventArgs e)
         {
             this.Validate();
-            this.baiasBindingSource.EndEdit();
-            this.tableAdapterManager.UpdateAll(this.databaseDataSet);
-
-        }
-
-        private void baiasBindingNavigatorSaveItem_Click_1(object sender, EventArgs e)
-        {
-            this.Validate();
             baia.Inserir(int.Parse(idTextBox1.Text), int.Parse(itemTextBox1.Text), descriçãoTextBox1.Text, bytes);
-            this.baiasBindingSource.EndEdit();
             this.tableAdapterManager.UpdateAll(this.databaseDataSet);
-
+            this.baiasBindingSource.EndEdit();
         }
+
 
         private void EditarDataBase_Load(object sender, EventArgs e)
         {
+            // TODO: This line of code loads data into the 'databaseDataSet1.Baias' table. You can move, or remove it, as needed.
+            this.baiasTableAdapter.Fill(this.databaseDataSet1.Baias);
             // TODO: This line of code loads data into the 'databaseDataSet.Baias' table. You can move, or remove it, as needed.
             this.baiasTableAdapter.Fill(this.databaseDataSet.Baias);
 
@@ -56,6 +50,11 @@ namespace System_Itens
                     bytes = ms.ToArray();
                 }
             }
+        }
+
+        private void baiasBindingSource_CurrentChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
