@@ -7,15 +7,17 @@
 
 <head>
     <title>Cadastro Clientes</title>
+    <link href="~/Content/meuCSS.css" rel="stylesheet" />
+    <script src="~/Scripts/Funcoes.js"></script>
 </head>
 
 <body>
-    <script>
-        var nome = "Fabio Leal";
-    </script>
-
-    <input type="text" onfocus="alert(nome)"/>
-    <button style="color:red;">Clique Aqui</button>
+    <p id="paragrafo" style="color:red;">Meu texto qualquer</p>
+    <p id="paragrafo2" style="color:red;">Meu texto qualquer</p>
+    <input value="Qualquer Coisa" id="meunome" type="text" />
+    <input type="text"/>
+    <button onclick="alterarParagrafo('green','20pt','Verde tamanho 20','paragrafo');" >Verde e tamanho 20</button>
+    <button onclick="alterarParagrafo('blue','15pt', 'Azul tamanho 15','paragrafo2');" >Azul e tamanho 15</button>
 </body>
 
 </html>
