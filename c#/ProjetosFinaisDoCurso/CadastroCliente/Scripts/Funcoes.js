@@ -14,7 +14,11 @@ var objetos = [
         altura: 135,
         especialidades: ['Vijia', 'Perto', 'Preguiçoso']
     }
-]
+];
+
+function meuNome() {
+    return 'Fabio';
+}
 
 function alterarParagrafo(cor, tamanho, texto, id) {
     var paragrafo = document.getElementById(id)

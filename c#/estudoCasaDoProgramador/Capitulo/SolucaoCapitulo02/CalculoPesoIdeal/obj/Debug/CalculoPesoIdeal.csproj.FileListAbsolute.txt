@@ -1,0 +1,11 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\CalculoPesoIdeal\obj\Debug\CalculoPesoIdeal.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\CalculoPesoIdeal\obj\Debug\CalculoPesoIdeal.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\CalculoPesoIdeal\obj\Debug\CalculoPesoIdeal.frmCalculoPesoIdeal.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\CalculoPesoIdeal\obj\Debug\CalculoPesoIdeal.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\CalculoPesoIdeal\obj\Debug\CalculoPesoIdeal.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\CalculoPesoIdeal\obj\Debug\CalculoPesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\CalculoPesoIdeal\bin\Debug\CalculoPesoIdeal.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\CalculoPesoIdeal\bin\Debug\CalculoPesoIdeal.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\CalculoPesoIdeal\bin\Debug\CalculoPesoIdeal.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\CalculoPesoIdeal\obj\Debug\CalculoPesoIdeal.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\CalculoPesoIdeal\obj\Debug\CalculoPesoIdeal.pdb

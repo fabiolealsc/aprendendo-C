@@ -1,0 +1,11 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.FormGastoEmRestaurante.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo01\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo01\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo01\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.pdb

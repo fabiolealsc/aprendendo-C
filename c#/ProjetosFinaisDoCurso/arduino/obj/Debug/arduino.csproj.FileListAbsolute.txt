@@ -1,0 +1,11 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\arduino\bin\Debug\arduino.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\arduino\bin\Debug\arduino.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\arduino\bin\Debug\arduino.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\arduino\obj\Debug\arduino.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\arduino\obj\Debug\arduino.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\arduino\obj\Debug\arduino.Form1.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\arduino\obj\Debug\arduino.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\arduino\obj\Debug\arduino.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\arduino\obj\Debug\arduino.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\arduino\obj\Debug\arduino.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\arduino\obj\Debug\arduino.pdb
