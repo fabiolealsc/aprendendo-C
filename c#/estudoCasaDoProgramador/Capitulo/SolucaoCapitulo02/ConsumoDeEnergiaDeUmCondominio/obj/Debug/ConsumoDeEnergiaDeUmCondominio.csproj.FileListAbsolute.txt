@@ -1,0 +1,11 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\ConsumoDeEnergiaDeUmCondominio\bin\Debug\ConsumoDeEnergiaDeUmCondominio.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\ConsumoDeEnergiaDeUmCondominio\bin\Debug\ConsumoDeEnergiaDeUmCondominio.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\ConsumoDeEnergiaDeUmCondominio\bin\Debug\ConsumoDeEnergiaDeUmCondominio.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.frmConsumoDeEnergiaDeUmCondominio.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo02\ConsumoDeEnergiaDeUmCondominio\obj\Debug\ConsumoDeEnergiaDeUmCondominio.pdb
