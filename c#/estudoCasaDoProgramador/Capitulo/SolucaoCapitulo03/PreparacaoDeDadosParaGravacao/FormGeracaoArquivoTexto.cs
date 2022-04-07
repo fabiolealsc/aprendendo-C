@@ -68,7 +68,7 @@ namespace PreparacaoDeDadosParaGravacao
         private void GerarArquivo()
         {
             StreamWriter wr = new StreamWriter(sfdGravarArquivo.FileName, true);
-            for (int j = 0; j < dgvFuncionarios.Rows.Count; j++)
+            for (int j = 0; j < dgvFuncionarios.Rows.Count-1; j++)
             {
                 wr.WriteLine(dgvFuncionarios.Rows[j].Cells[0].Value.ToString() + ";" + dgvFuncionarios.Rows[j].Cells[1].Value.ToString());
             }
@@ -81,11 +81,13 @@ namespace PreparacaoDeDadosParaGravacao
             double stringToDouble;
             do
             {
-                if (string.IsNullOrWhiteSpace(dgvFuncionarios.Rows[i].Cells[0].Value.ToString()))
+
+                if( string.IsNullOrWhiteSpace(dgvFuncionarios.Rows[i].Cells[0].Value.ToString()))
                     dadosValidados = false;
-                if (!Double.TryParse(dgvFuncionarios.Rows[i].Cells[1].Value.ToString(), out stringToDouble))
+
+                if(!Double.TryParse(dgvFuncionarios.Rows[i].Cells[1].Value.ToString(), out stringToDouble)) 
                     dadosValidados = false;
-            } while (++i < dgvFuncionarios.Rows.Count);
+            } while (++i < dgvFuncionarios.Rows.Count-1);
             return dadosValidados;
         }
     }
