@@ -1,0 +1,11 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\obj\Debug\ReajusteDeFolhaDePagamento.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\obj\Debug\ReajusteDeFolhaDePagamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\obj\Debug\ReajusteDeFolhaDePagamento.frmLeituraArquivo.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\obj\Debug\ReajusteDeFolhaDePagamento.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\obj\Debug\ReajusteDeFolhaDePagamento.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\obj\Debug\ReajusteDeFolhaDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\bin\Debug\ReajusteDeFolhaDePagamento.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\bin\Debug\ReajusteDeFolhaDePagamento.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\bin\Debug\ReajusteDeFolhaDePagamento.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\obj\Debug\ReajusteDeFolhaDePagamento.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\ReajusteDeFolhaDePagamento\obj\Debug\ReajusteDeFolhaDePagamento.pdb

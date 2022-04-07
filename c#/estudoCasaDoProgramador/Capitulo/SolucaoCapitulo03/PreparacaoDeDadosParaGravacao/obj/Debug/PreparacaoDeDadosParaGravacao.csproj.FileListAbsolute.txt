@@ -1,0 +1,11 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.FormGeracaoArquivoTexto.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\PreparacaoDeDadosParaGravacao\bin\Debug\PreparacaoDeDadosParaGravacao.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\PreparacaoDeDadosParaGravacao\bin\Debug\PreparacaoDeDadosParaGravacao.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\PreparacaoDeDadosParaGravacao\bin\Debug\PreparacaoDeDadosParaGravacao.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SolucaoCapitulo03\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.pdb
