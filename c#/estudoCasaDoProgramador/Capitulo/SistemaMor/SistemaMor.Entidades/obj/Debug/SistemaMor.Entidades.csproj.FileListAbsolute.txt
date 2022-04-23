@@ -1,0 +1,6 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Entidades\obj\Debug\SistemaMor.Entidades.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Entidades\obj\Debug\SistemaMor.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Entidades\bin\Debug\SistemaMor.Entidades.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Entidades\bin\Debug\SistemaMor.Entidades.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Entidades\obj\Debug\SistemaMor.Entidades.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Entidades\obj\Debug\SistemaMor.Entidades.pdb

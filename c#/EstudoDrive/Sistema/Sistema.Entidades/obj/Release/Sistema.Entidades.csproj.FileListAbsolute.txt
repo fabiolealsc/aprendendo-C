@@ -1,0 +1,6 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Entidades\bin\Release\Sistema.Entidades.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Entidades\bin\Release\Sistema.Entidades.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Entidades\obj\Release\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Entidades\obj\Release\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Entidades\obj\Release\Sistema.Entidades.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Entidades\obj\Release\Sistema.Entidades.pdb

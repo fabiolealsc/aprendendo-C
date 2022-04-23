@@ -1,0 +1,4 @@
+Elias;3400
+Concatto;5300
+Maozinha;2100
+Gui;2700

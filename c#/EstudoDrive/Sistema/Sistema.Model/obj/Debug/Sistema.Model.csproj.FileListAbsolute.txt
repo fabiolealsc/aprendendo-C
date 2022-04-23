@@ -1,0 +1,12 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Model\bin\Debug\Sistema.Model.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Model\bin\Debug\Sistema.Model.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Model\bin\Debug\Sistema.DAO.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Model\bin\Debug\Sistema.Entidades.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Model\bin\Debug\Sistema.DAO.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Model\bin\Debug\Sistema.Entidades.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Model\obj\Debug\Sistema.Model.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Model\obj\Debug\Sistema.Model.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Model\obj\Debug\Sistema.Model.csproj.CopyComplete
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Model\obj\Debug\Sistema.Model.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Model\obj\Debug\Sistema.Model.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.Model\bin\Debug\Sistema.DAO.dll.config

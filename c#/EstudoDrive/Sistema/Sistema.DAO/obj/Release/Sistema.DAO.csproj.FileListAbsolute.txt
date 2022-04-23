@@ -1,0 +1,10 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.DAO\bin\Release\Sistema.DAO.dll.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.DAO\bin\Release\Sistema.DAO.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.DAO\bin\Release\Sistema.DAO.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.DAO\bin\Release\Sistema.Entidades.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.DAO\bin\Release\Sistema.Entidades.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.DAO\obj\Release\Sistema.DAO.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.DAO\obj\Release\Sistema.DAO.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.DAO\obj\Release\Sistema.DAO.csproj.CopyComplete
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.DAO\obj\Release\Sistema.DAO.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\Sistema\Sistema.DAO\obj\Release\Sistema.DAO.pdb
