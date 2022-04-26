@@ -1,0 +1,16 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\bin\Debug\net5.0\Model.Entity.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\bin\Debug\net5.0\Model.Entity.deps.json
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\bin\Debug\net5.0\Model.Entity.runtimeconfig.json
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\bin\Debug\net5.0\Model.Entity.runtimeconfig.dev.json
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\bin\Debug\net5.0\Model.Entity.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\bin\Debug\net5.0\Model.Entity.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\obj\Debug\net5.0\Model.Entity.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\obj\Debug\net5.0\Model.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\obj\Debug\net5.0\Model.Entity.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\obj\Debug\net5.0\Model.Entity.AssemblyInfo.cs
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\obj\Debug\net5.0\Model.Entity.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\obj\Debug\net5.0\Model.Entity.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\obj\Debug\net5.0\refint\Model.Entity.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\obj\Debug\net5.0\Model.Entity.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\obj\Debug\net5.0\Model.Entity.genruntimeconfig.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Entity\obj\Debug\net5.0\ref\Model.Entity.dll

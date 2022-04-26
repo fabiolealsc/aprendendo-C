@@ -1,0 +1,16 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\bin\Debug\net5.0\Model.Bus.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\bin\Debug\net5.0\Model.Bus.deps.json
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\bin\Debug\net5.0\Model.Bus.runtimeconfig.json
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\bin\Debug\net5.0\Model.Bus.runtimeconfig.dev.json
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\bin\Debug\net5.0\Model.Bus.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\bin\Debug\net5.0\Model.Bus.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\obj\Debug\net5.0\Model.Bus.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\obj\Debug\net5.0\Model.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\obj\Debug\net5.0\Model.Bus.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\obj\Debug\net5.0\Model.Bus.AssemblyInfo.cs
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\obj\Debug\net5.0\Model.Bus.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\obj\Debug\net5.0\Model.Bus.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\obj\Debug\net5.0\refint\Model.Bus.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\obj\Debug\net5.0\Model.Bus.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\obj\Debug\net5.0\Model.Bus.genruntimeconfig.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ASP.NET\Model.Bus\obj\Debug\net5.0\ref\Model.Bus.dll
