@@ -1,0 +1,75 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.View.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.View.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.View.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.FormCadastroItem.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.FormEditarItem.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.FormPrincipal.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.Entidades.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.Model.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.Entidades.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.Model.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.CopyComplete
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.DAO.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.DAO.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.DAO.dll.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.View.exe.manifest
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.View.application
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.exe.manifest
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.application
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.View.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.View.exe.manifest
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.View.application
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.View.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.View.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.Entidades.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.Model.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.DAO.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.Entidades.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.Model.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.DAO.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\bin\Debug\SistemaMor.DAO.dll.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.FormCadastroItem.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.FormEditarItem.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.FormPrincipal.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.exe.manifest
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.application
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.CopyComplete
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\bin\Debug\SistemaMor.View.exe.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\bin\Debug\SistemaMor.View.exe.manifest
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\bin\Debug\SistemaMor.View.application
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\bin\Debug\SistemaMor.View.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\bin\Debug\SistemaMor.View.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\bin\Debug\SistemaMor.Entidades.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\bin\Debug\SistemaMor.Model.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\bin\Debug\SistemaMor.DAO.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\bin\Debug\SistemaMor.Entidades.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\bin\Debug\SistemaMor.Model.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\bin\Debug\SistemaMor.DAO.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\bin\Debug\SistemaMor.DAO.dll.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\obj\Debug\SistemaMor.View.FormCadastroItem.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\obj\Debug\SistemaMor.View.FormEditarItem.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\obj\Debug\SistemaMor.View.FormPrincipal.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\obj\Debug\SistemaMor.View.Properties.Resources.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.GenerateResource.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\obj\Debug\SistemaMor.View.exe.manifest
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\obj\Debug\SistemaMor.View.application
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.CopyComplete
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\obj\Debug\SistemaMor.View.exe
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.View\obj\Debug\SistemaMor.View.pdb

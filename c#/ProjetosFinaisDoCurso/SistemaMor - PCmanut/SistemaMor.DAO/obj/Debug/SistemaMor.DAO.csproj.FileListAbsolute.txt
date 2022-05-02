@@ -1,0 +1,30 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.DAO\bin\Debug\SistemaMor.DAO.dll.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.DAO\bin\Debug\SistemaMor.DAO.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.DAO\bin\Debug\SistemaMor.DAO.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.DAO\bin\Debug\SistemaMor.Entidades.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.DAO\bin\Debug\SistemaMor.Entidades.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.DAO\obj\Debug\SistemaMor.DAO.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.DAO\obj\Debug\SistemaMor.DAO.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.DAO\obj\Debug\SistemaMor.DAO.csproj.CopyComplete
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.DAO\obj\Debug\SistemaMor.DAO.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.DAO\obj\Debug\SistemaMor.DAO.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.DAO\bin\Debug\SistemaMor.DAO.dll.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.DAO\bin\Debug\SistemaMor.DAO.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.DAO\bin\Debug\SistemaMor.DAO.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.DAO\bin\Debug\SistemaMor.Entidades.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.DAO\bin\Debug\SistemaMor.Entidades.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.DAO\obj\Debug\SistemaMor.DAO.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.DAO\obj\Debug\SistemaMor.DAO.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.DAO\obj\Debug\SistemaMor.DAO.csproj.CopyComplete
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.DAO\obj\Debug\SistemaMor.DAO.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.DAO\obj\Debug\SistemaMor.DAO.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.DAO\bin\Debug\SistemaMor.DAO.dll.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.DAO\bin\Debug\SistemaMor.DAO.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.DAO\bin\Debug\SistemaMor.DAO.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.DAO\bin\Debug\SistemaMor.Entidades.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.DAO\bin\Debug\SistemaMor.Entidades.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.DAO\obj\Debug\SistemaMor.DAO.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.DAO\obj\Debug\SistemaMor.DAO.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.DAO\obj\Debug\SistemaMor.DAO.csproj.CopyComplete
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.DAO\obj\Debug\SistemaMor.DAO.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.DAO\obj\Debug\SistemaMor.DAO.pdb

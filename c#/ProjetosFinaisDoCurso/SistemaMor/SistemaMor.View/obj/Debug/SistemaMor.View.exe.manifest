@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1mxDW/dRJkRbyrHZzJNW1KWx9noQQQ+I/KBDnTtYH7M=</dsig:DigestValue>
+        <dsig:DigestValue>w+iGCd34fsTKkGTSUaIyeqZlWEiU4tzyZdJgsNXvxlk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>a8txabDMHiwKlgEjTKMGi4A1LPC/Qo6ntH1JQ0Ppdhk=</dsig:DigestValue>
+        <dsig:DigestValue>vFQN+zG4ZGg28w8/IhCTYCIbp6P6znS3ZVWjFDFRBGo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -73,19 +73,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>KOT7fCbavkj44pI0ut8OqwBIOnpMxCo8q2+tRq+6wuA=</dsig:DigestValue>
+        <dsig:DigestValue>pS52qfQR5xzDbE9BtkvMx60ScpMlGx38FsQ/siJVaZA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SistemaMor.View.exe" size="152624">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SistemaMor.View.exe" size="215088">
       <assemblyIdentity name="SistemaMor.View" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>PikSvwA7oQ7mwAbZlak1JL2mh2eZ4X0cz5R2g4d3TLw=</dsig:DigestValue>
+        <dsig:DigestValue>Ecw+WC2cfkKqnPz/3Bu8eft5CI/H15A60klbKnowe3o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

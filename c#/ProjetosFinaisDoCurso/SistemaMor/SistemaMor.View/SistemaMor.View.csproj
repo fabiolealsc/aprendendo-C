@@ -26,7 +26,7 @@
     <TargetCulture>pt-BR</TargetCulture>
     <ProductName>Itens Manut</ProductName>
     <PublisherName>Fabio Desenvolvimentos</PublisherName>
-    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationRevision>2</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -162,6 +162,21 @@
       <ProductName>SQL Server 2019 Express LocalDB</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\no-image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2022-04-25 at 23.47.46.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\340719-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoMor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoMor1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

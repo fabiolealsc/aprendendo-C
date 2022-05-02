@@ -1,0 +1,36 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Model\bin\Debug\SistemaMor.Model.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Model\bin\Debug\SistemaMor.Model.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Model\obj\Debug\SistemaMor.Model.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Model\obj\Debug\SistemaMor.Model.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Model\obj\Debug\SistemaMor.Model.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Model\obj\Debug\SistemaMor.Model.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Model\bin\Debug\SistemaMor.DAO.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Model\bin\Debug\SistemaMor.Entidades.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Model\bin\Debug\SistemaMor.DAO.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Model\bin\Debug\SistemaMor.DAO.dll.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Model\bin\Debug\SistemaMor.Entidades.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\estudoCasaDoProgramador\Capitulo\SistemaMor\SistemaMor.Model\obj\Debug\SistemaMor.Model.csproj.CopyComplete
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.Model\bin\Debug\SistemaMor.Model.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.Model\bin\Debug\SistemaMor.Model.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.Model\bin\Debug\SistemaMor.DAO.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.Model\bin\Debug\SistemaMor.Entidades.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.Model\bin\Debug\SistemaMor.DAO.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.Model\bin\Debug\SistemaMor.DAO.dll.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.Model\bin\Debug\SistemaMor.Entidades.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.Model\obj\Debug\SistemaMor.Model.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.Model\obj\Debug\SistemaMor.Model.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.Model\obj\Debug\SistemaMor.Model.csproj.CopyComplete
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.Model\obj\Debug\SistemaMor.Model.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.Model\obj\Debug\SistemaMor.Model.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.Model\bin\Debug\SistemaMor.Model.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.Model\bin\Debug\SistemaMor.Model.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.Model\bin\Debug\SistemaMor.DAO.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.Model\bin\Debug\SistemaMor.Entidades.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.Model\bin\Debug\SistemaMor.DAO.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.Model\bin\Debug\SistemaMor.DAO.dll.config
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.Model\bin\Debug\SistemaMor.Entidades.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.Model\obj\Debug\SistemaMor.Model.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.Model\obj\Debug\SistemaMor.Model.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.Model\obj\Debug\SistemaMor.Model.csproj.CopyComplete
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.Model\obj\Debug\SistemaMor.Model.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor - PCmanut\SistemaMor.Model\obj\Debug\SistemaMor.Model.pdb
