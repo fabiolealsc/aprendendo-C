@@ -22,11 +22,11 @@ namespace NavegationIntent
 
         private void Btn1_Click(object sender, System.EventArgs e)
         {
-            //Intent it = new Intent(this, typeof(Tela2));
-            //StartActivity(it);
-            Intent it2 = new Intent(Intent.ActionView);
-            it2.SetData(Android.Net.Uri.Parse("https://www.google.com.br"));
-            StartActivity(it2);
+            Intent it = new Intent(this, typeof(Tela2));
+            StartActivity(it);
+            //Intent it2 = new Intent(Intent.ActionView);
+            //it2.SetData(Android.Net.Uri.Parse("https://www.google.com.br"));
+            //StartActivity(it2);
         }
 
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)

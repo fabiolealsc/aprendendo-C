@@ -20,7 +20,7 @@ namespace NavegationIntent
 
         private void Btn2_Click(object sender, EventArgs e)
         {
-            this.Finish();
+            Finish();
         }
         
     }
