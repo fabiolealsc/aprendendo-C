@@ -29,6 +29,10 @@
         private void InitializeComponent()
         {
             this.dgvItens = new System.Windows.Forms.DataGridView();
+            this.id = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.item = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.descricao = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.imagem = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnBaia = new System.Windows.Forms.Button();
             this.btnColoman = new System.Windows.Forms.Button();
             this.btnCarroRapido = new System.Windows.Forms.Button();
@@ -43,27 +47,24 @@
             this.btnTraslo = new System.Windows.Forms.Button();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
+            this.imagemItem = new System.Windows.Forms.PictureBox();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
             this.txtBuscar = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.btnEditarItem = new System.Windows.Forms.Button();
             this.btnExcluirItem = new System.Windows.Forms.Button();
             this.btnNovoItem = new System.Windows.Forms.Button();
-            this.imagemItem = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.id = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.item = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.descricao = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.imagem = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.lblTitulo = new System.Windows.Forms.Label();
+            this.btnSair = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvItens)).BeginInit();
             this.tableLayoutPanel1.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
-            this.tableLayoutPanel2.SuspendLayout();
-            this.tableLayoutPanel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.imagemItem)).BeginInit();
+            this.tableLayoutPanel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.tableLayoutPanel4.SuspendLayout();
             this.SuspendLayout();
             // 
             // dgvItens
@@ -85,6 +86,37 @@
             this.dgvItens.Size = new System.Drawing.Size(417, 442);
             this.dgvItens.TabIndex = 0;
             this.dgvItens.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvItens_CellClick);
+            // 
+            // id
+            // 
+            this.id.DataPropertyName = "id";
+            this.id.HeaderText = "Id";
+            this.id.Name = "id";
+            this.id.ReadOnly = true;
+            this.id.Visible = false;
+            // 
+            // item
+            // 
+            this.item.DataPropertyName = "item";
+            this.item.HeaderText = "Item";
+            this.item.Name = "item";
+            this.item.ReadOnly = true;
+            // 
+            // descricao
+            // 
+            this.descricao.DataPropertyName = "descricao";
+            this.descricao.HeaderText = "Descrição";
+            this.descricao.Name = "descricao";
+            this.descricao.ReadOnly = true;
+            this.descricao.Width = 390;
+            // 
+            // imagem
+            // 
+            this.imagem.DataPropertyName = "imagem";
+            this.imagem.HeaderText = "Imagem";
+            this.imagem.Name = "imagem";
+            this.imagem.ReadOnly = true;
+            this.imagem.Visible = false;
             // 
             // btnBaia
             // 
@@ -287,9 +319,20 @@
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 1;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
+            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 448F));
             this.tableLayoutPanel3.Size = new System.Drawing.Size(893, 448);
             this.tableLayoutPanel3.TabIndex = 2;
+            // 
+            // imagemItem
+            // 
+            this.imagemItem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(91)))), ((int)(((byte)(91)))), ((int)(((byte)(200)))));
+            this.imagemItem.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.imagemItem.Location = new System.Drawing.Point(426, 3);
+            this.imagemItem.Name = "imagemItem";
+            this.imagemItem.Size = new System.Drawing.Size(464, 442);
+            this.imagemItem.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.imagemItem.TabIndex = 1;
+            this.imagemItem.TabStop = false;
             // 
             // tableLayoutPanel2
             // 
@@ -327,17 +370,31 @@
             this.tableLayoutPanel2.Size = new System.Drawing.Size(220, 454);
             this.tableLayoutPanel2.TabIndex = 1;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pictureBox1.Image = global::SistemaMor.View.Properties.Resources.logoMor1;
+            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(0);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(220, 107);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 3;
+            this.pictureBox1.TabStop = false;
+            // 
             // tableLayoutPanel4
             // 
-            this.tableLayoutPanel4.ColumnCount = 2;
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 87.05416F));
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 12.94584F));
+            this.tableLayoutPanel4.ColumnCount = 3;
+            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 43.14721F));
+            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 56.85279F));
+            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 104F));
             this.tableLayoutPanel4.Controls.Add(this.txtBuscar, 0, 2);
             this.tableLayoutPanel4.Controls.Add(this.label1, 0, 1);
-            this.tableLayoutPanel4.Controls.Add(this.btnEditarItem, 1, 2);
-            this.tableLayoutPanel4.Controls.Add(this.btnExcluirItem, 1, 1);
-            this.tableLayoutPanel4.Controls.Add(this.btnNovoItem, 1, 0);
-            this.tableLayoutPanel4.Controls.Add(this.lblTitulo, 0, 0);
+            this.tableLayoutPanel4.Controls.Add(this.btnEditarItem, 2, 2);
+            this.tableLayoutPanel4.Controls.Add(this.btnExcluirItem, 2, 1);
+            this.tableLayoutPanel4.Controls.Add(this.btnNovoItem, 2, 0);
+            this.tableLayoutPanel4.Controls.Add(this.lblTitulo, 1, 0);
+            this.tableLayoutPanel4.Controls.Add(this.btnSair, 0, 0);
             this.tableLayoutPanel4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel4.Location = new System.Drawing.Point(223, 3);
             this.tableLayoutPanel4.Name = "tableLayoutPanel4";
@@ -375,10 +432,10 @@
             this.btnEditarItem.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnEditarItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEditarItem.ForeColor = System.Drawing.Color.White;
-            this.btnEditarItem.Location = new System.Drawing.Point(777, 66);
+            this.btnEditarItem.Location = new System.Drawing.Point(788, 66);
             this.btnEditarItem.Margin = new System.Windows.Forms.Padding(0);
             this.btnEditarItem.Name = "btnEditarItem";
-            this.btnEditarItem.Size = new System.Drawing.Size(116, 35);
+            this.btnEditarItem.Size = new System.Drawing.Size(105, 35);
             this.btnEditarItem.TabIndex = 4;
             this.btnEditarItem.Text = "Editar Item";
             this.btnEditarItem.UseVisualStyleBackColor = false;
@@ -391,10 +448,10 @@
             this.btnExcluirItem.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnExcluirItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExcluirItem.ForeColor = System.Drawing.Color.White;
-            this.btnExcluirItem.Location = new System.Drawing.Point(777, 32);
+            this.btnExcluirItem.Location = new System.Drawing.Point(788, 32);
             this.btnExcluirItem.Margin = new System.Windows.Forms.Padding(0);
             this.btnExcluirItem.Name = "btnExcluirItem";
-            this.btnExcluirItem.Size = new System.Drawing.Size(116, 34);
+            this.btnExcluirItem.Size = new System.Drawing.Size(105, 34);
             this.btnExcluirItem.TabIndex = 3;
             this.btnExcluirItem.Text = "Excluir Item";
             this.btnExcluirItem.UseVisualStyleBackColor = false;
@@ -407,79 +464,41 @@
             this.btnNovoItem.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNovoItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnNovoItem.ForeColor = System.Drawing.Color.White;
-            this.btnNovoItem.Location = new System.Drawing.Point(777, 0);
+            this.btnNovoItem.Location = new System.Drawing.Point(788, 0);
             this.btnNovoItem.Margin = new System.Windows.Forms.Padding(0);
             this.btnNovoItem.Name = "btnNovoItem";
-            this.btnNovoItem.Size = new System.Drawing.Size(116, 32);
+            this.btnNovoItem.Size = new System.Drawing.Size(105, 32);
             this.btnNovoItem.TabIndex = 2;
             this.btnNovoItem.Text = "Novo Item";
             this.btnNovoItem.UseVisualStyleBackColor = false;
             this.btnNovoItem.Click += new System.EventHandler(this.btnNovoItem_Click);
             // 
-            // imagemItem
-            // 
-            this.imagemItem.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(91)))), ((int)(((byte)(91)))), ((int)(((byte)(200)))));
-            this.imagemItem.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.imagemItem.Location = new System.Drawing.Point(426, 3);
-            this.imagemItem.Name = "imagemItem";
-            this.imagemItem.Size = new System.Drawing.Size(464, 442);
-            this.imagemItem.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.imagemItem.TabIndex = 1;
-            this.imagemItem.TabStop = false;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox1.Image = global::SistemaMor.View.Properties.Resources.logoMor1;
-            this.pictureBox1.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(214, 101);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 3;
-            this.pictureBox1.TabStop = false;
-            // 
-            // id
-            // 
-            this.id.DataPropertyName = "id";
-            this.id.HeaderText = "Id";
-            this.id.Name = "id";
-            this.id.ReadOnly = true;
-            this.id.Visible = false;
-            // 
-            // item
-            // 
-            this.item.DataPropertyName = "item";
-            this.item.HeaderText = "Item";
-            this.item.Name = "item";
-            this.item.ReadOnly = true;
-            // 
-            // descricao
-            // 
-            this.descricao.DataPropertyName = "descricao";
-            this.descricao.HeaderText = "Descrição";
-            this.descricao.Name = "descricao";
-            this.descricao.ReadOnly = true;
-            this.descricao.Width = 390;
-            // 
-            // imagem
-            // 
-            this.imagem.DataPropertyName = "imagem";
-            this.imagem.HeaderText = "Imagem";
-            this.imagem.Name = "imagem";
-            this.imagem.ReadOnly = true;
-            this.imagem.Visible = false;
-            // 
             // lblTitulo
             // 
-            this.lblTitulo.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblTitulo.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.lblTitulo.AutoSize = true;
             this.lblTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitulo.ForeColor = System.Drawing.Color.White;
-            this.lblTitulo.Location = new System.Drawing.Point(342, 0);
+            this.lblTitulo.Location = new System.Drawing.Point(343, 0);
             this.lblTitulo.Name = "lblTitulo";
             this.lblTitulo.Size = new System.Drawing.Size(93, 32);
             this.lblTitulo.TabIndex = 5;
             this.lblTitulo.Text = "Baias";
+            // 
+            // btnSair
+            // 
+            this.btnSair.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.btnSair.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(91)))), ((int)(((byte)(91)))), ((int)(((byte)(200)))));
+            this.btnSair.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSair.ForeColor = System.Drawing.Color.White;
+            this.btnSair.Location = new System.Drawing.Point(0, 2);
+            this.btnSair.Margin = new System.Windows.Forms.Padding(0);
+            this.btnSair.Name = "btnSair";
+            this.btnSair.Size = new System.Drawing.Size(96, 28);
+            this.btnSair.TabIndex = 6;
+            this.btnSair.Text = "Sair";
+            this.btnSair.UseVisualStyleBackColor = false;
+            this.btnSair.Click += new System.EventHandler(this.btnSair_Click);
             // 
             // FormPrincipal
             // 
@@ -487,7 +506,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1119, 561);
             this.Controls.Add(this.tableLayoutPanel1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FormPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Janela Principal";
@@ -496,11 +515,11 @@
             ((System.ComponentModel.ISupportInitialize)(this.dgvItens)).EndInit();
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.imagemItem)).EndInit();
             this.tableLayoutPanel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.tableLayoutPanel4.ResumeLayout(false);
             this.tableLayoutPanel4.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.imagemItem)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -530,12 +549,13 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnEditarItem;
         private System.Windows.Forms.Button btnExcluirItem;
-        private System.Windows.Forms.Button btnNovoItem;
         private System.Windows.Forms.DataGridViewTextBoxColumn id;
         private System.Windows.Forms.DataGridViewTextBoxColumn item;
         private System.Windows.Forms.DataGridViewTextBoxColumn descricao;
         private System.Windows.Forms.DataGridViewTextBoxColumn imagem;
         private System.Windows.Forms.Label lblTitulo;
+        private System.Windows.Forms.Button btnNovoItem;
+        private System.Windows.Forms.Button btnSair;
     }
 }
 

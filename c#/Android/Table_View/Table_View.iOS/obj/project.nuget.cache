@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sm5k/dY0JrVy0i68YG/j8IpdQzJ7wk7EI3qefW6waDbfdYxjnkwhEzpypscRnSZiOQRof6XcxTZmA+4GTCnP1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabio\\Documents\\estudos\\fabiolealsc\\aprendendo-C\\c#\\Android\\Table_View\\Table_View.iOS\\Table_View.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

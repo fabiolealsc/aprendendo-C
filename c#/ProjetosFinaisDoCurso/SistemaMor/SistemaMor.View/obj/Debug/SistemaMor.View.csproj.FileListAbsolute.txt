@@ -48,3 +48,5 @@ C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCur
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.csproj.CopyComplete
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.exe
 C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.FormLogin.resources
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\ProjetosFinaisDoCurso\SistemaMor\SistemaMor.View\obj\Debug\SistemaMor.View.FormCadastroUsuario.resources

@@ -26,8 +26,8 @@ namespace SistemaMor.DAO.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=MANUTENCAO30\\SQLMANUT;Initial Catalog=BancoItens;Integrated Security=" +
-            "True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=BancoItens;Integrated Security" +
+            "=True")]
         public string banco {
             get {
                 return ((string)(this["banco"]));

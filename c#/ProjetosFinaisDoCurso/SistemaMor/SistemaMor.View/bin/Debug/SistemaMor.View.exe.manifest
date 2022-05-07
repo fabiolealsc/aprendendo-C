@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="SistemaMor.View.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="pt-BR" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="SistemaMor.View.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="pt-BR" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="SistemaMor.View" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>w+iGCd34fsTKkGTSUaIyeqZlWEiU4tzyZdJgsNXvxlk=</dsig:DigestValue>
+        <dsig:DigestValue>jmenbcsjGn/IaH6RtqWKi1GZJaN6Ngi8kMlYPoexnek=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>vFQN+zG4ZGg28w8/IhCTYCIbp6P6znS3ZVWjFDFRBGo=</dsig:DigestValue>
+        <dsig:DigestValue>XV8XL3Bex5BGA0SS8ocrow9jkx1efyuJ6P4VzpsxbaI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -73,19 +73,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pS52qfQR5xzDbE9BtkvMx60ScpMlGx38FsQ/siJVaZA=</dsig:DigestValue>
+        <dsig:DigestValue>qU6sHrwmt2oZDJqX14FZBmjAVQOpaPucDnepeb4YkfQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SistemaMor.View.exe" size="215088">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SistemaMor.View.exe" size="220208">
       <assemblyIdentity name="SistemaMor.View" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Ecw+WC2cfkKqnPz/3Bu8eft5CI/H15A60klbKnowe3o=</dsig:DigestValue>
+        <dsig:DigestValue>ZBmEXRG+TgeWCA7fHRkEv0zD9IzuQpdu8HHQ7qlrPkc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

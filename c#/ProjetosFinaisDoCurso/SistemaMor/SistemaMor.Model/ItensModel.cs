@@ -18,7 +18,7 @@ namespace SistemaMor.Model
         {
             return new ItensDAO().Excluir(objTabela, table);
         }
-        
+
         public static int Editar(ItensEnt objTabela, string table)
         {
             return new ItensDAO().Editar(objTabela, table);

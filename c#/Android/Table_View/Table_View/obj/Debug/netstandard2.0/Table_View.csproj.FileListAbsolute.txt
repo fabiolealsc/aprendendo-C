@@ -1,0 +1,15 @@
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Android\Table_View\Table_View\bin\Debug\netstandard2.0\Table_View.deps.json
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Android\Table_View\Table_View\bin\Debug\netstandard2.0\Table_View.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Android\Table_View\Table_View\bin\Debug\netstandard2.0\Table_View.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Android\Table_View\Table_View\obj\Debug\netstandard2.0\Table_View.csproj.AssemblyReference.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Android\Table_View\Table_View\obj\Debug\netstandard2.0\Table_View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Android\Table_View\Table_View\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Android\Table_View\Table_View\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Android\Table_View\Table_View\obj\Debug\netstandard2.0\Table_View.AssemblyInfoInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Android\Table_View\Table_View\obj\Debug\netstandard2.0\Table_View.AssemblyInfo.cs
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Android\Table_View\Table_View\obj\Debug\netstandard2.0\Table_View.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Android\Table_View\Table_View\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Android\Table_View\Table_View\obj\Debug\netstandard2.0\Table_View.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Android\Table_View\Table_View\obj\Debug\netstandard2.0\refint\Table_View.dll
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Android\Table_View\Table_View\obj\Debug\netstandard2.0\Table_View.pdb
+C:\Users\fabio\Documents\estudos\fabiolealsc\aprendendo-C\c#\Android\Table_View\Table_View\obj\Debug\netstandard2.0\ref\Table_View.dll

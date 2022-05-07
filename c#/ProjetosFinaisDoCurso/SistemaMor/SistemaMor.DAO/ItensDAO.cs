@@ -39,7 +39,7 @@ namespace SistemaMor.DAO
                 cn.CommandType = CommandType.Text;
                 con.Open();
                 cn.CommandText = "SELECT * FROM " + table;
-                
+
                 cn.Connection = con;
 
                 SqlDataReader dr;
@@ -138,12 +138,12 @@ namespace SistemaMor.DAO
                 return lista;
             };
         }
-            public byte[] imageToByteArray(System.Drawing.Image imageIn)
-            {
-                MemoryStream ms = new MemoryStream();
-                imageIn.Save(ms, System.Drawing.Imaging.ImageFormat.Gif);
-                return ms.ToArray();
-            }
+        public byte[] imageToByteArray(System.Drawing.Image imageIn)
+        {
+            MemoryStream ms = new MemoryStream();
+            imageIn.Save(ms, System.Drawing.Imaging.ImageFormat.Gif);
+            return ms.ToArray();
+        }
         public Image ByteToImage(byte[] imageArray)
         {
             ImageConverter converter = new ImageConverter();

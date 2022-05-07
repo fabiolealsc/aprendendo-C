@@ -1,15 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-using SistemaMor.Entidades;
+﻿using SistemaMor.Entidades;
 using SistemaMor.Model;
+using System;
+using System.Drawing;
+using System.Windows.Forms;
 
 namespace SistemaMor.View
 {
@@ -53,7 +46,7 @@ namespace SistemaMor.View
             OpenFileDialog openFileDialog = new OpenFileDialog();
             openFileDialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.MyPictures);
             openFileDialog.Filter = "img files (*.png;*.jpg;*.jpeg)|*.png;*.jpg;*.jpeg|All files (*.*)|*.*";
-            if (openFileDialog.ShowDialog()== DialogResult.OK)
+            if (openFileDialog.ShowDialog() == DialogResult.OK)
             {
                 string file = openFileDialog.FileName;
                 imagemItem.Image = Image.FromFile(file);

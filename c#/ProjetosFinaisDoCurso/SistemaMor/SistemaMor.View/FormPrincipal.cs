@@ -232,5 +232,10 @@ namespace SistemaMor.View
                 }
             }
         }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
     }
 }
